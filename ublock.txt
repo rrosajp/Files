@@ -1,7 +1,6 @@
 ! Homepage: https://raw.githubusercontent.com/Sanjjay/Files/master/ublock.txt
 ! Title: Custom Filter List 
 ! ---------- Custom Filter List ----------! 
-
 ||youtube.com/annotations_
 google.co.uk###pmocntr2
 translate.google.com###gt-bbar
