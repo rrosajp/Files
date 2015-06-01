@@ -1,0 +1,50 @@
+! Homepage: http://github.com/Sanjjay/Files/ublock.txt
+! Title: Custom Filter List 
+! ---------- Custom Filter List ----------! 
+!
+||youtube.com/annotations_
+google.co.uk###pmocntr2
+translate.google.com###gt-bbar
+youtube.com##.alerts-wrapper
+news.google.co.uk###gb.gb_Rc.gb_Ib > .gb_Ab.gb_kb.gb_Na
+news.google.co.uk##.promo-container.native-app-promo-container
+www.onlinemoviesfreee.com###menu-item-52505
+www.onlinemoviesfreee.com##.cat-item-104601.cat-item
+www.onlinemoviesfreee.com##.page-item-15371.page_item
+www.onlinemoviesfreee.com###menu-item-52494
+www.onlinemoviesfreee.com##.social-profiles-widget
+www.onlinemoviesfreee.com##.facebook-widget
+translate.google.co.uk###gb.gb_Rc.gb_Ib > .gb_Ab.gb_kb.gb_Na
+uptobox.com###container_page > center
+uptobox.com###container_page > .reseller > form > table > tbody > tr > td:nth-of-type(3) > .ad-square
+uptobox.com###container_page > .reseller > form > table > tbody > tr > td:nth-of-type(1) > .ad-square
+www.swalec.co.uk##.takeover__cover
+www.swalec.co.uk###aspnetForm > .cookies
+www.swalec.co.uk##.takeover__popupouter_reveal.takeover__popupouter
+www.hotukdeals.com##.layout-mainContent > .show.cookiesWarning-container
+www.playindiafilms.com###likejsbox
+www.tvguide.co.uk###backgroundPopup
+www.tvguide.co.uk###popup_content
+www.tvguide.co.uk###toPopup > .close
+www.tvguide.co.uk###popuplogo
+media.desiflicks.com###s5fb
+tvguide.co.uk###backgroundPopup
+tvguide.co.uk###popup_content
+tvguide.co.uk###popuplogo
+mega.co.nz##.ads-right-block
+mega.co.nz##.ads-left-block
+uptobox.com##.dvyqgnch-bg
+uptobox.com###cksneptg
+uptobox.com##.offer_col:nth-of-type(1)
+uptobox.com##.offer_col:nth-of-type(2)
+uptobox.com##.offer_col:nth-of-type(3)
+uptobox.com##.offer_col:nth-of-type(4)
+uptobox.com##.offer_col:nth-of-type(5)
+uptobox.com##.rlhuitfn-bg
+uptobox.com###lfxjvqpt
+||tissage-extension.com/ads22.php
+uptobox.com###container_page > .reseller > form > center > table > tbody > tr > td:nth-of-type(3)
+uptobox.com###container_page > .reseller > form > center > table > tbody > tr > td:nth-of-type(1)
+uptobox.com##.p8hcvr5nqgdk
+uptobox.com###container_page > .reseller > table > tbody > tr > td:nth-of-type(3)
+uptobox.com###container_page > .reseller > table > tbody > tr > td:nth-of-type(1)
