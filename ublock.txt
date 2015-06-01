@@ -1,4 +1,4 @@
-! Homepage: http://github.com/Sanjjay/Files/ublock.txt
+! Homepage: https://raw.githubusercontent.com/Sanjjay/Files/master/ublock.txt
 ! Title: Custom Filter List 
 ! ---------- Custom Filter List ----------! 
 !
