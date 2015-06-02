@@ -4,7 +4,10 @@
 ! Removes all annotations in videos 
 ||youtube.com/annotations_invideo?$object-subrequest 
 ! HTML5 version 
-youtube.com##.video-annotations 
+youtube.com##.video-annotations
+youtube.com##.watch-sidebar-head
+youtube.com##.iv-drawer-teaser
+youtube.com##.iv-branding.annotation-type-custom.annotation
 ! Removes sharing tab below videos 
 ||youtube.com/share_ajax?action_get_share_box=1&video_id=$xmlhttprequest 
 youtube.com##.action-panel-trigger[role="button"][data-trigger-for="action-panel-share"] 
