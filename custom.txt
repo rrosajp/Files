@@ -12,6 +12,7 @@
 ||youtube.com/share_ajax?action_get_share_box=1&video_id=$xmlhttprequest 
 youtube.com##.action-panel-trigger[role="button"][data-trigger-for="action-panel-share"] 
 youtube.com##.yt-uix-button[data-trigger-for="action-panel-share"]
+youtube.com###ticker
 google.co.uk###pmocntr2
 translate.google.com###gt-bbar
 youtube.com##.alerts-wrapper
