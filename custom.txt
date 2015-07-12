@@ -1,4 +1,4 @@
-! Homepage: https://raw.githubusercontent.com/Sanjjay/Files/master/ublock.txt
+! Homepage: https://raw.githubusercontent.com/Sanjjay/Files/master/custom.txt
 ! Title: Custom Filter List 
 ! ---------- Custom Filter List ----------! 
 ! Removes all annotations in videos 
