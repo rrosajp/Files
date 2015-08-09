@@ -1,0 +1,45 @@
+To access "Kodi Settings" select "Quit Kodi" on Home Screen then Settings in the menupopup.
+
+To access "Addon Settings" right click mouse or keyboard menu button (next to alt gr button) on the SELECTED addon.
+
+Navigate around Kodi with keyboard Arrow keys, Backspace and Enter or with your mouse.
+
+Keep pressing Esc/Back button if you need to get back to Home Screen. 
+
+Kodi Player Controls.
+
+Keyboard shortcuts below when playing videos.
+
+Full screen/Windowed			Backslash \ Button(next to letter Z)
+View Mode/Aspect Ratio			Letter Z Button
+Play/Pause				Spacebar Button
+Mute					F8 Button
+Stop					Letter X Button
+Forward 10 seconds			Arrow Right Button
+Backward 10 seconds			Arrow Left Button
+Forward 5 minutes			Arrow Up Button
+Backward 5 minutes			Arrow Down Button
+Back to Previous Page			Backspace Button
+OK					Enter Button
+Volume Up				Minus (-) Button
+Volume Down 				Plus (+) Button
+Show/Hide On Screen controls		Letter M Button
+Subtitles Enable/Disable		Letter T Button
+
+To search alternative subtitles because of out of sync, press Letter M on keyboard or move mouse to bring up "On Screen Controls" then at the bottom select the "Comment Button" next to "Sound Button" to choose alternative subtitles to download. 
+
+To add more Video Addons go to "Quit Kodi>Settings>Add-ons>Get Add-ons>Custom Add-ons Repository>Video Add-ons"
+
+You can also use your smartphones to remote control Kodi.
+
+Install Official Kodi Remote App from Apple Store or Google Play.
+
+Enter the IP Address and Port Number from your main "Home Screen" top left hand corner in to the settings of the app.
+
+Usename and password should be blank.
+ 
+Press Save or Ok to use remote.
+
+If you need any help or for any problems contact me via email at : kodi.genesis@gmail.com
+
+Enjoy!
