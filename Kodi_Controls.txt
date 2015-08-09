@@ -1,6 +1,6 @@
 To access "Kodi Settings" select "Quit Kodi" on Home Screen then Settings in the menupopup.
 
-To access "Addon Settings" right click mouse or keyboard menu button (next to alt gr button) on the SELECTED addon.
+To access "Addon Settings" right click mouse or keyboard letter C button on the SELECTED addon.
 
 Navigate around Kodi with keyboard Arrow keys, Backspace and Enter or with your mouse.
 
@@ -25,6 +25,7 @@ Volume Up				Minus (-) Button
 Volume Down 				Plus (+) Button
 Show/Hide On Screen controls		Letter M Button
 Subtitles Enable/Disable		Letter T Button
+Context Menu				Letter C \ Right click with mouse.
 
 To search alternative subtitles because of out of sync, press Letter M on keyboard or move mouse to bring up "On Screen Controls" then at the bottom select the "Comment Button" next to "Sound Button" to choose alternative subtitles to download. 
 
