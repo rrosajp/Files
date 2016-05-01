@@ -14,6 +14,7 @@
 youtube.com##.action-panel-trigger[role="button"][data-trigger-for="action-panel-share"] 
 youtube.com##.yt-uix-button[data-trigger-for="action-panel-share"]
 youtube.com###ticker
+google.co.uk###fbar > .fbar > .r-i3lsvEA0aDeY
 google.co.uk###fbar > .fbar > .r-iHKrGrfp0L24
 google.co.uk###pmocntr2
 translate.google.com###gt-bbar
