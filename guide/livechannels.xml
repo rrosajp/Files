@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+name =  dmode
+ dir = ndmode
+
+ 
+ TAKE MY MAIN LINKS AND I WILL SEE, YOUR NOT THE ONLY ONE LOOKING AT OTHER ADDONS XMLS!
+ DONT STEAL GET IDEAS AND MOVE ON.
+ Thbank you to all devs of phoenix.
+ 
+<item>
+<title>BBC1 HD</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/bbcone.png</thumbnail> 
+</item>
+
+<item>
+<title>BBC2</title> 
+<link>http://www.filmon.com/tv/bbc-two</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/bbctwo.png</thumbnail> 
+</item>
+
+<item>
+<title>ITV1</title> 
+<link>
+<sublink>http://www.filmon.com/tv/itv1</sublink>
+<sublink>http://hdfree.tv/watch/41/itv-1-live-stream.html</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/itv1.png</thumbnail> 
+</item>
+
+<item>
+<title>ITV1+1</title> 
+<link>http://www.filmon.com/tv/itv-plus-1</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/itv11.png</thumbnail> 
+</item>
+
+<item>
+<title>ITV2</title> 
+<link>http://www.filmon.com/tv/itv2</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/itv2.png</thumbnail> 
+</item>
+
+<item>
+<title>ITV2+1</title> 
+<link>http://www.filmon.com/tv/itv2-plus-1</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/itv22.png</thumbnail> 
+</item>
+
+<item>
+<title>ITV Be</title> 
+<link>http://www.filmon.com/tv/itvbe</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/ITVBE.png</thumbnail> 
+</item>
+
+<item>
+<title>Channel4</title> 
+<link>
+<sublink>http://www.filmon.com/tv/channel-4</sublink>
+<sublink>http://www.finecast.tv/embed4.php?u=c4jj&vw=650&vh=470&referer=http://livetvweb.net/</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/channel4.png</thumbnail> 
+</item>
+
+<item>
+<title>E4</title> 
+<link>http://www.filmon.com/tv/e4</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/E4.png</thumbnail> 
+</item>
+
+<item>
+<title>Channel 5</title> 
+<link>http://www.filmon.com/tv/channel-5</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/channel5.png</thumbnail> 
+</item>
+
+<item>
+<title>5*</title> 
+<link>http://www.filmon.com/tv/5-star</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/fivestar.png</thumbnail> 
+</item>
+
+<item>
+<title>Dave</title> 
+<link>
+<sublink>http://www.filmon.com/tv/dave</sublink>
+<sublink>http://www.shadow-net.me/channels/Dave.html</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/dave.png</thumbnail> 
+</item>
+
+<item>
+<title>MTV!</title> 
+<link>
+<sublink>http://www.ibrod.tv/mtv-tv-online.html</sublink>
+<sublink>http://www.shadow-net.me/channels/MTV-US.html</sublink>
+<sublink>http://www.finecast.tv/embed4.php?u=mtvmusic&vw=650&vh=470&referer=http://livetvweb.net/</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/MTV.png</thumbnail> 
+</item>
+
+<item>
+<title>Sky One</title> 
+<link>
+<sublink>http://www.shadow-net.me/channels/Sky-1.html</sublink>
+<sublink>http://www.finecast.tv/embed4.php?u=skyonee&vw=650&vh=470&referer=http://livetvweb.net/</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/skyone.png</thumbnail> 
+</item>
+
+<item>
+<title>Really</title> 
+<link>http://www.filmon.com/tv/really</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/really.png</thumbnail> 
+</item>
+
+<item>
+<title>Yesterday</title> 
+<link>http://www.filmon.com/tv/yesterday</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/yesterday.png</thumbnail> 
+</item>
+
+<item>
+<title>CBBC(ends 7pm)</title> 
+<link>http://www.filmon.com/tv/cbbc</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/cbbc.png</thumbnail>
+</item>
+
+<item>
+<title>CFRN CTV Edmonton</title> 
+<link>http://www.filmon.com/tv/cfrn-ctv-edmonton</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/cfrned.png</thumbnail>
+</item>
+
+<item>
+<title>CICC CTV Yorkton</title> 
+<link>http://www.filmon.com/tv/cicc-ctv-yorkton</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/york.png</thumbnail>
+</item>
+
+<item>
+<title>CKCK CTV Regina</title> 
+<link>http://www.filmon.com/tv/ckck-ctv-regina</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/ckck.png</thumbnail>
+</item>
+
+<item>
+<title>PickTV</title> 
+<link>http://www.filmon.com/tv/pick-tv</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/pick.png</thumbnail> 
+</item>
+
+<item>
+<title>Quest</title> 
+<link>http://www.filmon.com/tv/quest</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/quest.png</thumbnail> 
+</item>
+
+<item>
+<title>CBS Reality</title> 
+<link>http://www.filmon.com/tv/cbs-reality</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/CBSR.png</thumbnail> 
+</item>
+
+<item>
+<title>The CW</title> 
+<link>
+<sublink>http://www.shadow-net.me/channels/CW.html</sublink>
+<sublink>http://www.ibrod.tv/cw-tv-online.html</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/CW.png</thumbnail> 
+</item>
+
+<item>
+<title>E!</title> 
+<link>
+<sublink>http://www.shadow-net.me/channels/E%21-Entertainment.html</sublink>
+<sublink>http://www.finecast.tv/embed4.php?u=ee34&width=650&height=470&vh=470&vw=650&referer=http://livetvweb.net/</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/EE.png</thumbnail> 
+</item>
+
+<item>
+<title>Comedy Central</title> 
+<link>http://www.shadow-net.me/channels/Comedy-Central.html</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/Comedy.png</thumbnail> 
+</item>
+
+<item>
+<title>US Network</title> 
+<link>
+<sublink>http://www.shadow-net.me/channels/USA-Network.html</sublink>
+<sublink>http://www.finecast.tv/embed3.php?u=usanety&width=640&height=450&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/usnet.png</thumbnail> 
+</item>
+
+<item>
+<title>Sky Movies Premier</title> 
+<link>http://www.finecast.tv/embed4.php?u=skypm&vw=650&vh=470&referer=http://livetvweb.net/</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/skyprem.png</thumbnail> 
+</item>
+
+<item>
+<title>Sky Movies Disney</title> 
+<link>http://www.finecast.tv/embed4.php?u=skydisneyy&vw=640&vh=450&referer=http://livetvweb.net/</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/skydisney.png</thumbnail> 
+</item>
+
+<item>
+<title>Sky Movies Comedy</title> 
+<link>http://www.finecast.tv/embed4.php?u=skymc&vw=650&vh=470&referer=http://livetvweb.net/</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/skycom.png</thumbnail> 
+</item>
+
+<item>
+<title>Cartoon Network</title> 
+<link>
+<sublink>http://www.ibrod.tv/cartoon-network-tv-online.html</sublink>
+<sublink>http://www.shadow-net.me/channels/Cartoon-Network-UK.html</sublink>
+<sublink>http://www.shadow-net.me/channels/Cartoon-Network-US.html</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/Cartoon.png</thumbnail> 
+</item>
+
+<item>
+<title>Disney Junior</title> 
+<link>http://www.finecast.tv/embed4.php?u=disneyjr&vw=650&vh=470&referer=http://livetvweb.net/</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/disneyj.png</thumbnail> 
+</item>
+
+<item>
+<title>Disney Channel</title> 
+<link>
+<sublink>http://www.shadow-net.me/channels/Disney-Channel-UK.html</sublink>
+<sublink>http://www.finecast.tv/embed4.php?u=disney&vw=650&vh=470&referer=http://livetvweb.net/</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/disney.png</thumbnail> 
+</item>
+
+<item>
+<title>SKY SPORTS F1</title>
+<link>
+<sublink>rtmpe://185.23.213.233:1935/hfufdxdhrh/mamahdskysportsf1 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskysportsf1&vw=854&vh=480</sublink>
+<sublink>http://stream4.freehdsport.com/ssf1.html</sublink>
+<sublink>http://www.crichd.tv/sky-sports-f1-live-stream-uk.php</sublink>
+<sublink>http://baltak.com/skysportf1.html</sublink>
+<sublink>http://hdfree.tv/watch/7/sky-sports-f1-live-stream-online.html</sublink>
+<sublink>http://zunox.hk/skyf1frame.html</sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/8892.ts</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://mamahd.com/watch-sky-sports-formula-1-live-stream-1.html</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/skyf1.png</thumbnail> 
+</item>
+
+
+<item>
+<title>Sky Sports 1</title>
+<link>
+<sublink>rtmpe://185.23.213.216:1935/hfufdxdhrh/mamahdsky11 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdsky11&vw=680&vh=490</sublink>
+<sublink>http://www.finecast.tv/embed4.php?u=skyyyyyy11&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
+<sublink>http://www.finecast.tv/embed4.php?u=skysports1back&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
+<sublink>http://www.ibrod.tv/skysports1.html</sublink>
+<sublink>http://antenasport.com/skysports1hd.html</sublink>
+<sublink>http://zunox.hk/sky1frame.html</sublink>
+<sublink>http://baltak.com/skysport1.html</sublink>
+<sublink>http://giostreams.eu/ss1.html</sublink>
+<sublink>http://www.crichd.tv/sky-sports-1-live-stream-uk6.php</sublink>
+<sublink>http://hdfree.tv/watch/2/sky-sports-1.html</sublink>
+<sublink>http://stream4.freehdsport.com/ssss1.html</sublink>
+<sublink>http://firstrowfr.eu/watch/411012/1/watch-sky-sports-1.html</sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ds-iptv.dyndns.org:8000/live/cosimo/cosimo/185.ts</sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bit.ly/1qCPD7a</sublink>
+<sublink>rtmpe://162.253.131.42:1935/aqq/skysports1lsh swfUrl=http://www.lshstream.com/jw/jwplayer.flash.swf flashver=WIN/2019,0,0,226 live=1 token=SECURET0KEN#yw%.?()@W! timeout=14 swfVfy=1 pageUrl=http://cdn.lshstream.com/embed.php?u=skysports1lsh</sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/7931.ts</sublink>
+<sublink>rtmp://185.63.255.60:80/live playpath=swqhs1a swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=swqhs1a&vw=688&vh=387 token=%Zrey(nKa@#Z</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3d%252Fskysports1.php%26title%3dSky%2bSports%2b1%26url%3dhttp%253A%252F%252Fwww.liveonlinetv247.info%252Fembed%252Fskysports1.php%26videoTitle%3dSky%2bSports%2b1%26director%3dliveonlinetv247%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.liveonlinetv247.info%252Ftvchannels.php%26definedIn%3dcustoms%252Fliveonlinetv247.net.cfg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.liveonlinetv247.info%252Fimages%252Fskysports1.png&mode=1</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://mamahd.com/watch-sky-sports-1-live-stream-1.html</sublink>
+<sublink>http://www.feed2allnow.eu/watch/411012/1/watch-sky-sports-1.html</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/ss1.png</thumbnail> 
+</item>
+
+<item>
+<title>Sky Sports 2</title>
+<link>
+<sublink>rtmpe://185.23.213.215:1935/hfufdxdhrh/mamahdsky2 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdsky2&vw=854&vh=480</sublink>
+<sublink>http://www.finecast.tv/embed4.php?u=sksport2000&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
+<sublink>http://www.finecast.tv/embed4.php?u=skysports2backup&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
+<sublink>http://antenasport.com/skysports2hd.html</sublink>
+<sublink>http://www.ibrod.tv/skysports2.html</sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bit.ly/1RWXovm</sublink>
+<sublink>http://www.ibrod.tv/skysports2.html</sublink>
+<sublink>http://www.crichd.tv/sky-sports-2-live-stream-cricket-hd.php</sublink>
+<sublink>http://zunox.hk/sky2frame.html</sublink>
+<sublink>http://giostreams.eu/ss2.html</sublink>
+<sublink>http://hdfree.tv/watch/3/sky-sports-2.html</sublink>
+<sublink>http://baltak.com/skysport2.html</sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/7932.ts</sublink>
+<sublink>http://cdn540.xyz/live/sky2b37aZ/playlist.m3u8?t=2ce0e288fe81aacb509232e26e8df2e1&e=1458333997&v&wowzasessionid=1415723340 HTTP/1.1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=true token=SECURET0KEN#yw%.?()@W! pageUrl=http://go.oclaserver.com/apu.php?zoneid=30468</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://mamahd.com/watch-sky-sports-2-live-streaming-free-1.html</sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://213.136.90.30:8000/live/guzi/isla/10212.ts</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/ss2.png</thumbnail> 
+</item>
+
+<item>
+<title>Sky Sports 3</title>
+<link>
+<sublink>rtmpe://185.23.213.215:1935/hfufdxdhrh/mamahdsky3 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdsky3&vw=854&vh=480</sublink>
+<sublink>http://www.ibrod.tv/skysports3.html</sublink>
+<sublink>http://giostreams.eu/ss3.html</sublink>
+<sublink>http://antenasport.com/skysports3hd.html</sublink>
+<sublink>http://www.crichd.tv/sky-sports-3-live-streaming-uk.php</sublink>
+<sublink>http://hdfree.tv/watch/4/sky-sports-3.html</sublink>
+<sublink>http://baltak.com/skysport3.html</sublink>
+<sublink>http://zunox.hk/sky3frame.html</sublink>
+<sublink>http://stream4.freehdsport.com/ss3.html</sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/7933.ts</sublink>
+<sublink>http://cdn540.xyz/live/sky3jgd27/playlist.m3u8?t=c35aca90b1d5c9f5cb22bfe6ca88bc88&e=1458158248&wowzasessionid=1207847355 HTTP/1.1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=true token=SECURET0KEN#yw%.?()@W! pageUrl=http://go.oclaserver.com/apu.php?zoneid=30468</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://mamahd.com/watch-sky-sports-3-live-stream-1.html</sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://213.136.90.30:8000/live/guzi/isla/10213.ts</sublink>
+<sublink>http://www.finecast.tv/embed4.php?u=sku3&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
+<sublink>http://www.finecast.tv/embed4.php?u=skysports3back&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/ss3.png</thumbnail> 
+</item>
+
+<item>
+<title>Sky Sport News</title> 
+<link>
+<sublink>rtmpe://185.23.213.235:1935/hfufdxdhrh/mamahdskynews swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskynews&vw=854&vh=480</sublink>
+<sublink>http://giostreams.eu/ssn.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://mamahd.com/watch-sky-sports-news-live-stream-1.html</sublink>
+<sublink>http://zunox.hk/ssnframe.html</sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/8890.ts</sublink>
+<sublink>http://cp.dmbshare.net:8000/live/c4a/c4a/2761.m3u8</sublink>
+<sublink>http://www.finecast.tv/embed4.php?u=sktnews&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/SSN.png</thumbnail> 
+</item>
+
+<item>
+<title>Setanta Sport</title> 
+<link>
+<sublink>rtmpe://185.23.213.233:1935/hfufdxdhrh/mamahdsetanta swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdsetanta&vw=854&vh=480</sublink>
+<sublink>http://www.finecast.tv/embed4.php?u=setantaa&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
+<sublink>http://www.serbiaplus.club/setantasportsk.html</sublink>
+<sublink>http://baltak.com/setanta.html</sublink>
+<sublink>http://giostreams.eu/set.html</sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.231.219:88/live/24326/24326/17.ts</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://mamahd.com/setanta-live-stream-1.html</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/setanta.png</thumbnail> 
+</item>
+
+<item>
+<title>BT Sport 1</title> 
+<link>
+<sublink>rtmpe://185.23.213.235:1935/hfufdxdhrh/mamahdbtsport1 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdbtsport1&vw=854&vh=480</sublink>
+<sublink>http://www.finecast.tv/embed4.php?u=btsport1back&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
+<sublink>http://www.finecast.tv/embed4.php?u=btsp1&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
+<sublink>http://www.serbiaplus.club/btsport1sk.html</sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bit.ly/1Wjwkvw</sublink>
+<sublink>http://www.ibrod.tv/btsports1.html</sublink>
+<sublink>http://giostreams.eu/bt1.html</sublink>
+<sublink>http://stream4.freehdsport.com/bt2.html</sublink>
+<sublink>http://www.crichd.tv/bt-sport-1-live-stream.php</sublink>
+<sublink>http://www.shadow-net.me/channels/BT-Sport-1.html</sublink>
+<sublink>http://hdfree.tv/watch/8/bt-sport-1-live-stream-online.html</sublink>
+<sublink>http://zunox.hk/btsport1frame.html</sublink>
+<sublink>http://baltak.com/btsport1.html</sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.231.144.15:4000/play/a00o live=true</sublink>
+<sublink>rtmp://185.63.255.18:80/live playpath=wodhs1j swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=wodhs1j&vw=736&vh=438 token=%Zrey(nKa@#Z</sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/lukewsheridan1/lukewsheridan1/4592.ts</sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://cp.dmbshare.net:8000/live/lukewsheridan1/lukewsheridan1/4592.ts</sublink>
+<sublink>http://02e4.vp9.tv/chn/btsu1/v.m3u8</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://mamahd.com/watch-bt-sport-1-live-streaming-1.html</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/bt1.png</thumbnail> 
+</item>
+
+<item>
+<title>BT Sport 2</title> 
+<link>
+<sublink>rtmpe://185.23.213.236:1935/hfufdxdhrh/mamahdbtsport2 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdbtsport2&vw=854&vh=480</sublink>
+<sublink>http://www.finecast.tv/embed4.php?u=btu2&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
+<sublink>http://www.finecast.tv/embed4.php?u=btsport2back&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
+<sublink>http://www.serbiaplus.club/btsport2sk.html</sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bit.ly/1qCQ41u</sublink>
+<sublink>http://www.ibrod.tv/btsports2.html</sublink>
+<sublink>http://giostreams.eu/bt2.html</sublink>
+<sublink>http://www.crichd.tv/bt-sport-2-live-stream-uk.php</sublink>
+<sublink>http://baltak.com/btsport2.html</sublink>
+<sublink>http://stream4.freehdsport.com/bt2.html</sublink>
+<sublink>http://www.shadow-net.me/channels/BT-Sport-2.html</sublink>
+<sublink>http://hdfree.tv/watch/9/bt-sport-2-live-stream-online.html</sublink>
+<sublink>http://zunox.hk/btsport2frame.html</sublink>
+<sublink>http://212.231.144.15:4000/play/a00p live=true</sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/8895.ts</sublink>
+<sublink>rtmp://185.63.255.60:80/live playpath=dodhs2j swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=dodhs2j&vw=736&vh=438 token=%Zrey(nKa@#Z</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3d%252Fbtsport2.php%26title%3dBT%2bSport%2b2%26url%3dhttp%253A%252F%252Fwww.liveonlinetv247.info%252Fembed%252Fbtsport2.php%26videoTitle%3dBT%2bSport%2b2%26director%3dliveonlinetv247%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.liveonlinetv247.info%252Ftvchannels.php%26definedIn%3dcustoms%252Fliveonlinetv247.net.cfg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.liveonlinetv247.info%252Fimages%252Fbtsport2.png&mode=1</sublink>
+<sublink>rtmp://185.63.255.18:80/live playpath=dodhs2j swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=dodhs2j&vw=688&vh=387 token=%Zrey(nKa@#Z</sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.231.219:88/live/24326/24326/10.ts</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://mamahd.com/watch-bt-sport-2-live-stream-1.html</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/bt2.png</thumbnail> 
+</item>
+
+<item>
+<title>BT EU</title>
+<link>
+<sublink>rtmpe://185.23.213.236:1935/hfufdxdhrh/mamahdbteu swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdbteu&vw=854&vh=480</sublink>
+<sublink>http://www.finecast.tv/embed4.php?u=bteurop&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
+<sublink>http://antenasport.com/bteuropelive.html</sublink>
+<sublink>http://www.serbiaplus.club/bteuropesk.html</sublink>
+<sublink>http://www.shadow-net.me/channels/BT-Sport-Europe.html</sublink>
+<sublink>http://hdfree.tv/watch/32/bt-sport-europe-live-stream.html</sublink>
+<sublink>http://giostreams.eu/bteuro.html</sublink>
+<sublink>http://www.crichd.tv/bt-sport-europe-live-stream-uk1.php</sublink>
+<sublink>http://stream4.freehdsport.com/bteu.html</sublink>
+<sublink>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtvbteu_5msgj44x swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2019,0,0,226 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtvbteu&autoplay=true&strech=exactfit</sublink>
+<sublink>rtmp://185.63.255.18:80/live playpath=qodhsej swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=qodhsej&vw=736&vh=438 token=%Zrey(nKa@#Z</sublink>
+<sublink>http://212.231.144.15:4000/play/a00q live=true</sublink>
+<sublink>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtvbteu_5msgj44x swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2019,0,0,226 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtvbteu&autoplay=true&strech=exactfit</sublink>
+<sublink>rtmpe://162.253.130.26:1935/aqq/bteulsh swfUrl=http://www.lshstream.com/jw/jwplayer.flash.swf flashver=WIN/2019,0,0,226 live=1 token=SECURET0KEN#yw%.?()@W! timeout=14 swfVfy=1 pageUrl=http://cdn.lshstream.com/embed.php?u=bteulsh</sublink>
+<sublink>rtmpe://80.82.64.54:80/live/ playpath=04?RFSmp swfUrl=http://www.castup.me/player/pl.swf live=1 token=#@8x12pX@!x@# timeout=15 swfVfy=1 pageUrl=http://www.castup.tv</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://mamahd.com/watch-liverpool-live-streaming-free-online-1.html</sublink>
+<sublink>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtvbteu_5msgj44x swfUrl=http://www.shadow-net.biz/javascript/videojs/flashls/video-js.swf flashver=WIN/2020,0,0,306 live=true timeout=18 swfVfy=1 pageUrl=http://www.shadow-net.biz/</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/bteu.png</thumbnail> 
+</item>
+
+<item>
+<title>BOXNATION</title>
+<link>
+<sublink>rtmpe://185.23.213.236:1935/hfufdxdhrh/mamahdboxnation swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdboxnation&vw=854&vh=480</sublink>
+<sublink>http://www.shadow-net.me/channels/BoxNation.html</sublink>
+<sublink>http://giostreams.eu/box.html</sublink>
+<sublink>http://www.finecast.tv/embed4.php?u=boxoo&vw=650&vh=470&referer=http://livetvweb.net/</sublink>
+<sublink>http://wizhdsports.com/watch/box-nation-live-stream.html</sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/4818.ts</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://mamahd.com/watch-box-live-stream-free-online-1.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://mamahd.com/watch-box-nation-live-streaming-free-online-1.html</sublink>
+<sublink>http://cp.dmbshare.net:8000/live/c4a/c4a/2831.m3u8</sublink>
+<sublink>http://cp.dmbshare.net:8000/live/aaron/aaron/2831.m3u8</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/boxnation.png</thumbnail> 
+</item>
+
+</item>
+<item>
+<title>ESPN</title>
+<link>
+<sublink>rtmpe://185.23.213.235:1935/hfufdxdhrh/mamahdespnuk swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdvespnuk&vw=854&vh=480</sublink>
+<sublink>http://hdfree.tv/watch-espn-live-stream.html</sublink>
+<sublink>http://stream4.freehdsport.com/btsportespn.html</sublink>
+<sublink>http://zunox.hk/espnframe.html</sublink>
+<sublink>http://www.wiz1.net/watchespn</sublink>
+<sublink>http://www.shadow-net.me/channels/ESPN-US.html</sublink>
+<sublink>http://www.shadow-net.me/channels/BT-Sport-ESPN.html</sublink>
+<sublink>rtmp://185.63.255.60:80/live playpath=espnxukk swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.yotv.co/embed.php?live=espnxukk&vw=620&vh=490 token=%Zrey(nKa@#Z </sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/4824.ts</sublink>
+<sublink>rtmp://31.220.2.148:1935/live/_definst_/espnxukk</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/ESPN.png</thumbnail> 
+</item>
+
+</item>
+<item>
+<title>ESPN 2</title>
+<link>
+<sublink>http://www.shadow-net.me/channels/ESPN-2.html</sublink>
+<sublink>http://goatd.net/144402/watch-espn-2.html</sublink>
+<sublink>http://www.finecast.tv/embed3.php?u=espnusa2hd&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/ESPN.png</thumbnail> 
+</item>
+
+</item>
+<item>
+<title>Fox Sport 1</title>
+<link>
+<sublink>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8</sublink>
+<sublink>http://www.finecast.tv/embed4.php?u=foxsports1hd&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
+<sublink>http://www.finecast.tv/embed4.php?u=foxsports1kingu&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
+<sublink>http://antenasport.com/fox1usahd.html</sublink>
+<sublink>http://zunox.hk/foxsports1frame.html</sublink>
+<sublink>http://goatd.net/142856/watch-fox-sports-1.html</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/fox1.png</thumbnail> 
+</item>
+
+<item>
+<title>NFL Network</title>
+<sublink>rtmpe://162.219.176.50:1935/hfufdxdhrh/mamahdnfl swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdnfl&vw=854&vh=480</sublink>
+<sublink>http://www.shadow-net.me/channels/NFL-Network.html</sublink>
+<sublink>http://wiz1.net/watchnfl</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/NFL.png</thumbnail> 
+</item>
+
+<item>
+<title>At the races</title>
+<link>
+<sublink>http://giostreams.eu/atr.html</sublink>
+<sublink>http://www.shadow-net.me/channels/At-The-Races.html</sublink>
+<sublink>http://www.finecast.tv/embed4.php?u=aatrr&vw=650&vh=470&referer=http://livetvweb.net/</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/attheraces.png</thumbnail> 
+</item>
+
+<item>
+<title>Racing UK</title>
+<link>
+<sublink>http://www.finecast.tv/embed4.php?u=racin10&vw=650&vh=470&referer=http://livetvweb.net/</sublink>
+<sublink>http://www.shadow-net.me/channels/Racing-UK.html</sublink>
+<sublink>http://giostreams.eu/ukrace.html</sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bit.ly/CosmixRUK</sublink></link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/racinguk.png</thumbnail> 
+</item>
+
+<item>
+<title>NBA TV</title>
+<link>
+<sublink>http://www.shadow-net.me/channels/NBA-TV.html</sublink>
+<sublink>http://zunox.hk/nbaframe.html</sublink>
+<sublink>http://wiz1.net/watchnba.html</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/NBA.png</thumbnail> 
+</item>
+
+<item>
+<title>NBC SN</title>
+<link>
+<sublink>http://hdfree.tv/watch/46/nbcsn-live-stream.html</sublink>
+<sublink>http://www.shadow-net.me/channels/NBC-Sports-Netw..html</sublink>
+<sublink>http://giostreams.eu/nbcsn.html</sublink>
+<sublink>http://goatd.net/39296/watch-nbcsn.html</sublink>
+<sublink>http://www.finecast.tv/embed3.php?u=nbcsportshd&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/NBCSN.png</thumbnail> 
+</item>
+
+<item>
+<title>Premier Sport</title>
+<link>
+<sublink>http://antenasport.com/premiertv.html</sublink>
+<sublink>http://stream4.freehdsport.com/premiersports.html</sublink>
+<sublink>http://www.serbiaplus.club/premiersportsk.html</sublink>
+<sublink>http://www.shadow-net.me/channels/Premier-Sports.html</sublink>
+<sublink>http://zunox.hk/premiersportsframe.html</sublink>
+<sublink>http://www.finecast.tv/embed4.php?u=premsssp&vw=650&vh=470&referer=http://livetvweb.net/</sublink>
+<sublink>http://www.finecast.tv/embed4.php?u=prembackup&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/premsport.png</thumbnail> 
+</item>
+
+<item>
+<title>Eurosport 1</title>
+<link>
+<sublink>http://stream4.freehdsport.com/euro1.html</sublink>
+<sublink>http://zunox.hk/eurosportframe.html</sublink>
+<sublink>http://www.finecast.tv/embed4.php?u=euro1313&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
+<sublink>http://www.liveonlinetv247.info/embed/foxsports1.php?width=650&height=480</sublink>
+<sublink>http://www.liveonlinetv247.info/embed/foxsports1.php?width=650&height=480&referer=http://www.liveonlinetv247.info/</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/euro1.png</thumbnail> 
+</item>
+
+<item>
+<title>WWE Network</title>
+<link>
+<sublink>http://www.serbiaplus.club/wwe.html</sublink>
+<sublink>http://zunox.hk/wwenetworkframe.html</sublink>
+<sublink>http://www.crichd.tv/wwe-network.php</sublink>
+<sublink>http://hdfree.tv/wwe-network-live-stream.html</sublink>
+<sublink>http://hdfree.tv/watch/55/wwe-network-live-stream-hd.html</sublink>
+<sublink>http://baltak.com/wwe.html</sublink>
+</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/WWE.png</thumbnail> 
+</item>
+
+
+
+Thank you to all Devs of Pheonix & TV ADDONS - base made from pheonix.
