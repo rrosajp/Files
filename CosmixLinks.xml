@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+name =  dmode
+ dir = ndmode
+
+<item> 
+<title>[COLOR blue]Addon Update:09/05/16[/COLOR]</title>
+<link></link>
+</item>
+
+<dir>
+<title>[COLOR red]Live tv[/COLOR]</title>
+<link>http://bit.ly/LiveLinksFuckOffCunt</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/Livetv.png</thumbnail> 
+</dir>
+
+<dir>
+<title>[COLOR yellow]Live Events[/COLOR]</title>
+<link>http://bit.ly/CosmixEventsFuckOffNow</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/events.png</thumbnail> 
+</dir>
+
+<dir>
+<title>[COLOR green]Movie Picks[/COLOR]</title>
+<link>http://bit.ly/CosmixPicksFuckOff</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/moviepicks.png</thumbnail> 
+</dir>
+
+<dir>
+<title>[COLOR pink]Random episodes[/COLOR]</title>
+<link>http://bit.ly/Cosmix247FUCKOFF</link>
+<thumbnail>http://cosmix.net23.net/repo/Icons/247shows.png</thumbnail> 
+</dir>
