@@ -4,17 +4,17 @@ name =  dmode
  dir = ndmode
 
 <item> 
-<title>[COLOR blue]Addon Update:22/05/16[/COLOR]</title>
+<title>[COLOR red]Addon Update:22/05/16[/COLOR]</title>
 </item>
 
 <dir>
-<title>[COLOR red]Live tv[/COLOR]</title>
+<title>[COLOR blue]Live Links[/COLOR]</title>
 <link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/livechannels.xml</link>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
 </dir>
 
 <dir>
-<title>[COLOR green]Movie Picks[/COLOR]</title>
+<title>[COLOR green]Movie Links[/COLOR]</title>
 <link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/movielinks.xml</link>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
 </dir>
