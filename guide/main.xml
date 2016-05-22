@@ -5,29 +5,18 @@ name =  dmode
 
 <item> 
 <title>[COLOR blue]Addon Update:22/05/16[/COLOR]</title>
-<link></link>
 </item>
 
 <dir>
 <title>[COLOR red]Live tv[/COLOR]</title>
 <link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/livechannels.xml</link>
-<thumbnail>http://cosmix.net23.net/repo/Icons/Livetv.png</thumbnail> 
-</dir>
-
-<dir>
-<title>[COLOR yellow]Live Events[/COLOR]</title>
-<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/liveevents.xml</link>
-<thumbnail>http://cosmix.net23.net/repo/Icons/events.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
 </dir>
 
 <dir>
 <title>[COLOR green]Movie Picks[/COLOR]</title>
 <link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/movielinks.xml</link>
-<thumbnail>http://cosmix.net23.net/repo/Icons/moviepicks.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
 </dir>
 
-<dir>
-<title>[COLOR pink]Random episodes[/COLOR]</title>
-<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/247.xml</link>
-<thumbnail>http://cosmix.net23.net/repo/Icons/247shows.png</thumbnail> 
-</dir>
+
