@@ -6,14 +6,25 @@ name =  dmode
 <item>
 <title>BBC One</title> 
 <link>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_one_hd&amp;mode=6&amp;name=BBC+One</sublink>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_one_london&amp;mode=203&amp;name=BBC+One+London</sublink>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_one_wales_hd&amp;mode=203&amp;name=BBC+One+Wales</sublink>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_one_scotland_hd&amp;mode=203&amp;name=BBC+One+Scotland</sublink>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_one_northern_ireland_hd&amp;mode=203&amp;name=BBC+One+Northern+Ireland</sublink>
+<sublink>plugin://plugin.video.bbciplayer/?url=bbc_one_hd&amp;mode=6&amp;name=BBC+One</sublink>
 <sublink>http://www.filmon.com/channel/bbc-one</sublink>
-<sublink>http://vs-hls-uk-live.edgesuite.net/pool_4/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d5070000.m3u8</sublink>
 </link>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
 </item>
 
 <item>
-<title>BBC2</title> 
+<title>BBC Two</title>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_two_england&amp;mode=6&amp;name=BBC+Two</sublink>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_one_london&amp;mode=203&amp;name=BBC+One+London</sublink>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_two_wales_digital&amp;mode=203&amp;name=BBC+Two+Wales</sublink>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_two_scotland&amp;mode=203&amp;name=BBC+Two+Scotland</sublink>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_two_northern_ireland_digital&amp;mode=203&amp;name=BBC+Two+Northern+Ireland</sublink>
+<sublink>plugin://plugin.video.bbciplayer/?url=bbc_two_england&amp;mode=6&amp;name=BBC+Two</sublink>
 <link>http://www.filmon.com/tv/bbc-two</link>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
 </item>
