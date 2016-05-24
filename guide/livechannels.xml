@@ -6,7 +6,7 @@ name =  dmode
 <item>
 <title>BBC One</title> 
 <link>
-<sublink>plugin://plugin.video.iplayerwww/?url=bbc_one_hd&=mode=6&=name=BBC+One</sublink>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_one_hd&=mode=6</sublink>
 <sublink>plugin://plugin.video.iplayerwww/?url=bbc_one_london&mode=203&=name=BBC+One+London</sublink>
 <sublink>plugin://plugin.video.iplayerwww/?url=bbc_one_wales_hd&mode=203&=name=BBC+One+Wales</sublink>
 <sublink>plugin://plugin.video.iplayerwww/?url=bbc_one_scotland_hd&mode=203&=name=BBC+One+Scotland</sublink>
