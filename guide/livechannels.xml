@@ -234,7 +234,7 @@ name =  dmode
 <item>
 <title>Sky Sports 1</title>
 <link>
-<sublink>plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vMTQ5LjIwMi44NS44NDo4MDgwL3NrMS0yMDUwL2xvY2FsL2luZGV4Lm0zdTh8VXNlci1BZ2VudD1BcHBsZUNvcmVNZWRpYS8xLjAuMC4xM0E0NTIgKGlQaG9uZTsgVTsgQ1BVIE9TIDlfMF8yIGxpa2UgTWFjIE9TIFg7IGVuX2diKQ%3D%3D&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DSk+1+%282%29+v7%5B%2FCOLOR%5D</sublink>
+<sublink>http://149.202.85.84:8080/sk1-2050/local/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)</sublink>
 <sublink>rtmpe://185.23.213.216:1935/hfufdxdhrh/mamahdsky11 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdsky11&vw=680&vh=490</sublink>
 <sublink>http://www.finecast.tv/embed4.php?u=skyyyyyy11&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
 <sublink>http://www.finecast.tv/embed4.php?u=skysports1back&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
