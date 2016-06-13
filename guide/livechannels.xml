@@ -235,6 +235,14 @@ name =  dmode
 <item>
 <title>Sky Sports 1</title>
 <link>
+<sublink>http://94.242.228.162:8081/live/skysports2-hq/playlist.m3u8?wmsAuthSign=$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+<regex>
+<name>m3u8</name>
+<expres>wmsAuthSign=([^"]*)</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports2-2.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/skysports2.php</referer>
+</regex>
+</sublink>
 <sublink>http://149.202.85.84:8080/sk1-2050/local/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)</sublink>
 <sublink>rtmpe://185.23.213.216:1935/hfufdxdhrh/mamahdsky11 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdsky11&vw=680&vh=490</sublink>
 <sublink>http://www.finecast.tv/embed4.php?u=skyyyyyy11&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
