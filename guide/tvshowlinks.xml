@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+Movie Links
+
+
+<item>
+<title>Gods of Egypt (2016)</title>
+<meta>
+<content>movie</content>
+<imdb>tt2404233</imdb>
+<title>Gods of Egypt</title>
+<year>2016</year>
+</meta>
+<link>
+<sublink>http://config.playwire.com/24388/videos/v2/4925601/zeus.json</sublink>
+<sublink>https://cdn.video.playwire.com/21772/videos/4926723/video-sd.mp4</sublink>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>https://fanart.tv/fanart/movies/205584/movieposter/gods-of-egypt-56a9228e8691f.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/movies/205584/moviebackground/gods-of-egypt-574581e3403cd.jpg</fanart>
+</item>
+
+
+<item>
+<title>Deadpool (2016)</title>
+<meta>
+<content>movie</content>
+<imdb>tt1431045</imdb>
+<title>Deadpool</title>
+<year>2016</year>
+</meta>
+<link>
+<sublink>http://movie25.hk/watch-deadpool-online-free-64647.html</sublink>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://fanart.tv/fanart/movies/293660/movieposter/deadpool-56948e5115048.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/movies/293660/moviebackground/deadpool-565722d308aea.jpg</fanart>
+</item>
+
+
