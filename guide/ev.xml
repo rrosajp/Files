@@ -1,0 +1,19 @@
+<item>
+<title>[COLOR blue]Shows here on day of event[/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail> 
+</item>
+
+<item>
+<title>[COLOR yellow]Custom[/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail> 
+</item>
+
+<item>
+<title>[COLOR yellow]Work In Progress[/COLOR]</title>
+<link>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail> 
+</item>

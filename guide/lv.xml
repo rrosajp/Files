@@ -6,502 +6,711 @@ name =  dmode
 <item>
 <title>BBC One</title> 
 <link>
-<sublink>https://www.youtube.com/watch?v=A7ZeNqzC_d8</sublink>
-<sublink>plugin://plugin.video.iplayerwww/?url=bbc_one_hd&=mode=6&=name=BBC+One&description=&subtitles_url=&logged_in=False</sublink>
-<sublink>plugin://plugin.video.iplayerwww/?url=bbc_one_london&mode=203&=name=BBC+One+London&description=&subtitles_url=&logged_in=False</sublink>
-<sublink>plugin://plugin.video.iplayerwww/?url=bbc_one_wales_hd&mode=203&=name=BBC+One+Wales&description=&subtitles_url=&logged_in=False</sublink>
-<sublink>plugin://plugin.video.iplayerwww/?url=bbc_one_scotland_hd&mode=203&=name=BBC+One+Scotland&description=&subtitles_url=&logged_in=False</sublink>
-<sublink>plugin://plugin.video.iplayerwww/?url=bbc_one_northern_ireland_hd&mode=203&=name=BBC+One+Northern+Ireland&description=&subtitles_url=&logged_in=False</sublink>
-<sublink>plugin://plugin.video.bbciplayer/?url=bbc_one_hd&=mode=6&=name=BBC+One&description=&IPID=</sublink>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_one_hd&amp;mode=6&amp;name=BBC+One</sublink>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_one_london&amp;mode=203&amp;name=BBC+One+London</sublink>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_one_wales_hd&amp;mode=203&amp;name=BBC+One+Wales</sublink>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_one_scotland_hd&amp;mode=203&amp;name=BBC+One+Scotland</sublink>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_one_northern_ireland_hd&amp;mode=203&amp;name=BBC+One+Northern+Ireland</sublink>
+<sublink>plugin://plugin.video.bbciplayer/?url=bbc_one_hd&amp;mode=6&amp;name=BBC+One</sublink>
 <sublink>http://www.filmon.com/channel/bbc-one</sublink>
 </link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/BBC One.png</thumbnail> 
 </item>
 
 <item>
-<title>BBC Two</title>
+<title>BBC Two</title> 
 <link>
-<sublink>plugin://plugin.video.iplayerwww/?url=bbc_two_england&=mode=6&=name=BBC+Two&description=&subtitles_url=&logged_in=False</sublink>
-<sublink>plugin://plugin.video.iplayerwww/?url=bbc_one_london&mode=203&=name=BBC+One+London&description=&subtitles_url=&logged_in=False</sublink>
-<sublink>plugin://plugin.video.iplayerwww/?url=bbc_two_wales_digital&mode=203&=name=BBC+Two+Wales&description=&subtitles_url=&logged_in=False</sublink>
-<sublink>plugin://plugin.video.iplayerwww/?url=bbc_two_scotland&mode=203&=name=BBC+Two+Scotland&description=&subtitles_url=&logged_in=False</sublink>
-<sublink>plugin://plugin.video.iplayerwww/?url=bbc_two_northern_ireland_digital&mode=203&=name=BBC+Two+Northern+Ireland&description=&subtitles_url=&logged_in=False</sublink>
-<sublink>plugin://plugin.video.bbciplayer/?url=bbc_two_england&=mode=6&=name=BBC+Two&description=&IPID=</sublink>
-<sublink>http://www.filmon.com/tv/bbc-two</sublink>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_two_england&amp;mode=6&amp;name=BBC+Two</sublink>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_one_london&amp;mode=203&amp;name=BBC+One+London</sublink>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_two_wales_digital&amp;mode=203&amp;name=BBC+Two+Wales</sublink>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_two_scotland&amp;mode=203&amp;name=BBC+Two+Scotland</sublink>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_two_northern_ireland_digital&amp;mode=203&amp;name=BBC+Two+Northern+Ireland</sublink>
+<sublink>plugin://plugin.video.bbciplayer/?url=bbc_two_england&amp;mode=6&amp;name=BBC+Two</sublink>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
 </link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/BBC Two.png</thumbnail> 
 </item>
 
 <item>
-<title>ITV1</title> 
+<title>BBC Four</title> 
 <link>
-<sublink>http://www.filmon.com/tv/itv1</sublink>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_two_england&amp;mode=6&amp;name=BBC+Two</sublink>
+<sublink>plugin://plugin.video.bbciplayer/?url=bbc_four&amp;mode=6&amp;name=BBC+Four</sublink>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
 </link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/BBC Four.png</thumbnail> 
 </item>
 
 <item>
-<title>ITV1+1</title> 
-<link>http://www.filmon.com/tv/itv-plus-1</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<title>BBC ALBA</title> 
+<link>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_two_england&amp;mode=6&amp;name=BBC+Two</sublink>
+<sublink>plugin://plugin.video.bbciplayer/?url=bbc_alba&amp;mode=6&amp;name=Alba</sublink>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/BBC ALBA.png</thumbnail> 
+</item>
+
+<item>
+<title>BBC NEWS</title> 
+<link>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_two_england&amp;mode=6&amp;name=BBC+Two</sublink>
+<sublink>plugin://plugin.video.bbciplayer/?url=bbc_news24&amp;mode=6&amp;name=BBC+News+Channel</sublink>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/BBC NEWS.png</thumbnail> 
+</item>
+
+<item>
+<title>BBC Parliament</title> 
+<link>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_two_england&amp;mode=6&amp;name=BBC+Two</sublink>
+<sublink>plugin://plugin.video.bbciplayer/?url=bbc_parliament&amp;mode=6&amp;name=BBC+Parliament</sublink>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/BBC Parliment.png</thumbnail> 
+</item>
+
+<item>
+<title>CBBC</title> 
+<link>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_two_england&amp;mode=6&amp;name=BBC+Two</sublink>
+<sublink>plugin://plugin.video.bbciplayer/?url=cbbc&amp;mode=6&amp;name=CBBC</sublink>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/CBBC.png</thumbnail> 
+</item>
+
+<item>
+<title>CBeebies</title> 
+<link>
+<sublink>plugin://plugin.video.iplayerwww/?url=bbc_two_england&amp;mode=6&amp;name=BBC+Two</sublink>
+<sublink>plugin://plugin.video.bbciplayer/?url=cbeebies&amp;mode=6&amp;name=CBeebies</sublink>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/CBeebies.png</thumbnail> 
+</item>
+
+<item>
+<title>ITV</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ITV.png</thumbnail> 
+</item>
+
+<item>
+<title>ITV+1</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ITV+1.png</thumbnail> 
 </item>
 
 <item>
 <title>ITV2</title> 
-<link>http://www.filmon.com/tv/itv2</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ITV2.png</thumbnail> 
 </item>
 
 <item>
 <title>ITV2+1</title> 
-<link>http://www.filmon.com/tv/itv2-plus-1</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
-</item>
-
-<item>
-<title>ITV Be</title> 
-<link>http://www.filmon.com/tv/itvbe</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
-</item>
-
-<item>
-<title>Channel4</title> 
 <link>
-<sublink>http://www.filmon.com/tv/channel-4</sublink>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
 </link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ITV2+1.png</thumbnail> 
+</item>
+
+<item>
+<title>ITV3</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ITV3.png</thumbnail> 
+</item>
+
+<item>
+<title>ITV3+1</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ITV3+1.png</thumbnail> 
+</item>
+
+<item>
+<title>ITV4</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ITV4.png</thumbnail> 
+</item>
+
+<item>
+<title>ITV4+1</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ITV4+1.png</thumbnail> 
+</item>
+
+<item>
+<title>ITVBe</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ITVBe.png</thumbnail> 
+</item>
+
+<item>
+<title>ITVBe+1</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ITVBe+1.png</thumbnail> 
+</item>
+
+<item>
+<title>ITV Encore</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ITV Encore.png</thumbnail> 
+</item>
+
+<item>
+<title>ITV Encore+1</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ITV Encore+1.png</thumbnail> 
+</item>
+
+<item>
+<title>CITV</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/CITV.png</thumbnail> 
+</item>
+
+<item>
+<title>Channel 4</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Channel 4.png</thumbnail> 
+</item>
+<item>
+<title>Channel 4 +1</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Channel 4 +1.png</thumbnail> 
 </item>
 
 <item>
 <title>E4</title> 
-<link>http://www.filmon.com/tv/e4</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/E4.png</thumbnail> 
+</item>
+
+<item>
+<title>E4+1</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/E4+1.png</thumbnail> 
+</item>
+
+<item>
+<title>More4</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/More4.png</thumbnail> 
+</item>
+
+<item>
+<title>More4+1</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/More4+1.png</thumbnail> 
+</item>
+
+<item>
+<title>E4</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/E4.png</thumbnail> 
+</item>
+
+<item>
+<title>Film4</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Film4.png</thumbnail> 
+</item>
+
+<item>
+<title>Film4 +1</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Film4 +1.png</thumbnail> 
 </item>
 
 <item>
 <title>Channel 5</title> 
-<link>http://www.filmon.com/tv/channel-5</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Channel 5.png</thumbnail> 
+</item>
+
+<item>
+<title>Channel 5+1</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Channel 5+.png</thumbnail> 
+</item>
+
+<item>
+<title>Channel 5+24</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Channel 5+24.png</thumbnail> 
 </item>
 
 <item>
 <title>5*</title> 
-<link>http://www.filmon.com/tv/5-star</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/5*.png</thumbnail> 
+</item>
+
+<item>
+<title>5* +1</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/5* +1.png</thumbnail> 
+</item>
+
+<item>
+<title>5 USA</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/5 USA.png</thumbnail> 
+</item>
+
+<item>
+<title>5 USA +1</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/5 USA +1.png</thumbnail> 
 </item>
 
 <item>
 <title>Dave</title> 
 <link>
 <sublink>http://www.filmon.com/tv/dave</sublink>
+<sublink>http://www.shadow-net.me/channels/Dave.html</sublink>
 </link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
-</item>
-
-<item>
-<title>Sky One</title> 
-<link>
-<sublink>http://www.finecast.tv/embed4.php?u=skyonee&vw=650&vh=470&referer=http://livetvweb.net/</sublink>
-</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>http://cosmix.net23.net/repo/Icons/dave.png</thumbnail> 
 </item>
 
 <item>
 <title>Really</title> 
 <link>http://www.filmon.com/tv/really</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>http://cosmix.net23.net/repo/Icons/really.png</thumbnail> 
 </item>
 
 <item>
 <title>Yesterday</title> 
 <link>http://www.filmon.com/tv/yesterday</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
-</item>
-
-<item>
-<title>CBBC(ends 7pm)</title> 
-<link>http://www.filmon.com/tv/cbbc</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail>
-</item>
-
-<item>
-<title>CFRN CTV Edmonton</title> 
-<link>http://www.filmon.com/tv/cfrn-ctv-edmonton</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail>
-</item>
-
-<item>
-<title>CICC CTV Yorkton</title> 
-<link>http://www.filmon.com/tv/cicc-ctv-yorkton</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail>
-</item>
-
-<item>
-<title>CKCK CTV Regina</title> 
-<link>http://www.filmon.com/tv/ckck-ctv-regina</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail>
+<thumbnail>http://cosmix.net23.net/repo/Icons/yesterday.png</thumbnail> 
 </item>
 
 <item>
 <title>PickTV</title> 
 <link>http://www.filmon.com/tv/pick-tv</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>http://cosmix.net23.net/repo/Icons/pick.png</thumbnail> 
 </item>
 
 <item>
 <title>Quest</title> 
 <link>http://www.filmon.com/tv/quest</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>http://cosmix.net23.net/repo/Icons/quest.png</thumbnail> 
 </item>
 
 <item>
 <title>CBS Reality</title> 
 <link>http://www.filmon.com/tv/cbs-reality</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>http://cosmix.net23.net/repo/Icons/CBSR.png</thumbnail> 
 </item>
 
 <item>
-<title>The CW</title> 
+<title>Sky1</title> 
 <link>
-<sublink>http://www.ibrod.tv/cw-tv-online.html</sublink>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
 </link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky1.png</thumbnail> 
 </item>
 
 <item>
-<title>E!</title> 
+<title>Sky1 +1</title> 
 <link>
-<sublink>http://www.finecast.tv/embed4.php?u=ee34&width=650&height=470&vh=470&vw=650&referer=http://livetvweb.net/</sublink>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
 </link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky1 +1.png</thumbnail> 
 </item>
 
 <item>
-<title>Comedy Central</title> 
-<link>http://www.shadow-net.me/channels/Comedy-Central.html</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
-</item>
-
-<item>
-<title>US Network</title> 
+<title>Sky2</title> 
 <link>
-<sublink>http://www.finecast.tv/embed3.php?u=usanety&width=640&height=450&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
 </link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky2.png</thumbnail> 
 </item>
 
 <item>
-<title>Sky Movies Premier</title> 
-<link>http://www.finecast.tv/embed4.php?u=skypm&vw=650&vh=470&referer=http://livetvweb.net/</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
-</item>
-
-<item>
-<title>Sky Movies Disney</title> 
-<link>http://www.finecast.tv/embed4.php?u=skydisneyy&vw=640&vh=450&referer=http://livetvweb.net/</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
-</item>
-
-<item>
-<title>Sky Movies Comedy</title> 
-<link>http://www.finecast.tv/embed4.php?u=skymc&vw=650&vh=470&referer=http://livetvweb.net/</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
-</item>
-
-<item>
-<title>Cartoon Network</title> 
+<title>Sky Arts</title> 
 <link>
-<sublink>http://www.ibrod.tv/cartoon-network-tv-online.html</sublink>
-<sublink>http://www.shadow-net.me/channels/Cartoon-Network-UK.html</sublink>
-<sublink>http://www.shadow-net.me/channels/Cartoon-Network-US.html</sublink>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
 </link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky Arts.png</thumbnail> 
 </item>
 
 <item>
-<title>Disney Junior</title> 
-<link>http://www.finecast.tv/embed4.php?u=disneyjr&vw=650&vh=470&referer=http://livetvweb.net/</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
-</item>
-
-<item>
-<title>Disney Channel</title> 
+<title>Sky Living</title> 
 <link>
-<sublink>http://www.finecast.tv/embed4.php?u=disney&vw=650&vh=470&referer=http://livetvweb.net/</sublink>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
 </link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky Living.png</thumbnail> 
 </item>
 
 <item>
-<title>Sky Sports 1</title>
+<title>Sky Living+1</title> 
 <link>
-<sublink>http://94.242.228.162:8081/live/skysports2-hq/playlist.m3u8?wmsAuthSign=$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-<regex>
-<name>m3u8</name>
-<expres>wmsAuthSign=([^"]*)</expres>
-<page>http://www.liveonlinetv247.info/embed/skysports2-2.php?width=650&height=480</page>
-<referer>http://www.liveonlinetv247.info/skysports2.php</referer>
-</regex>
-</sublink>
-<sublink>http://149.202.85.84:8080/sk1-2050/local/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)</sublink>
-<sublink>rtmpe://185.23.213.216:1935/hfufdxdhrh/mamahdsky11 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdsky11&vw=680&vh=490</sublink>
-<sublink>http://www.finecast.tv/embed4.php?u=skyyyyyy11&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
-<sublink>http://www.finecast.tv/embed4.php?u=skysports1back&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
-<sublink>http://www.ibrod.tv/skysports1.html</sublink>
-<sublink>http://antenasport.com/skysports1hd.html</sublink>
-<sublink>http://zunox.hk/sky1frame.html</sublink>
-<sublink>http://baltak.com/skysport1.html</sublink>
-<sublink>http://giostreams.eu/ss1.html</sublink>
-<sublink>http://www.crichd.tv/sky-sports-1-live-stream-uk6.php</sublink>
-<sublink>http://hdfree.tv/watch/2/sky-sports-1.html</sublink>
-<sublink>http://stream4.freehdsport.com/ssss1.html</sublink>
-<sublink>http://firstrowfr.eu/watch/411012/1/watch-sky-sports-1.html</sublink>
-<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ds-iptv.dyndns.org:8000/live/cosimo/cosimo/185.ts</sublink>
-<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bit.ly/1qCPD7a</sublink>
-<sublink>rtmpe://162.253.131.42:1935/aqq/skysports1lsh swfUrl=http://www.lshstream.com/jw/jwplayer.flash.swf flashver=WIN/2019,0,0,226 live=1 token=SECURET0KEN#yw%.?()@W! timeout=14 swfVfy=1 pageUrl=http://cdn.lshstream.com/embed.php?u=skysports1lsh</sublink>
-<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/7931.ts</sublink>
-<sublink>rtmp://185.63.255.60:80/live playpath=swqhs1a swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=swqhs1a&vw=688&vh=387 token=%Zrey(nKa@#Z</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3d%252Fskysports1.php%26title%3dSky%2bSports%2b1%26url%3dhttp%253A%252F%252Fwww.liveonlinetv247.info%252Fembed%252Fskysports1.php%26videoTitle%3dSky%2bSports%2b1%26director%3dliveonlinetv247%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.liveonlinetv247.info%252Ftvchannels.php%26definedIn%3dcustoms%252Fliveonlinetv247.net.cfg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.liveonlinetv247.info%252Fimages%252Fskysports1icon.png&mode=1</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://mamahd.com/watch-sky-sports-1-live-stream-1.html</sublink>
-<sublink>http://www.feed2allnow.eu/watch/411012/1/watch-sky-sports-1.html</sublink>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
 </link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky Living+1.png</thumbnail> 
 </item>
 
 <item>
-<title>Sky Sports 2</title>
+<title>Sky Atlantic</title> 
 <link>
-<sublink>rtmpe://185.23.213.215:1935/hfufdxdhrh/mamahdsky2 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdsky2&vw=854&vh=480</sublink>
-<sublink>http://www.finecast.tv/embed4.php?u=sksport2000&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
-<sublink>http://www.finecast.tv/embed4.php?u=skysports2backup&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
-<sublink>http://antenasport.com/skysports2hd.html</sublink>
-<sublink>http://www.ibrod.tv/skysports2.html</sublink>
-<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bit.ly/1RWXovm</sublink>
-<sublink>http://www.ibrod.tv/skysports2.html</sublink>
-<sublink>http://www.crichd.tv/sky-sports-2-live-stream-cricket-hd.php</sublink>
-<sublink>http://zunox.hk/sky2frame.html</sublink>
-<sublink>http://giostreams.eu/ss2.html</sublink>
-<sublink>http://hdfree.tv/watch/3/sky-sports-2.html</sublink>
-<sublink>http://baltak.com/skysport2.html</sublink>
-<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/7932.ts</sublink>
-<sublink>http://cdn540.xyz/live/sky2b37aZ/playlist.m3u8?t=2ce0e288fe81aacb509232e26e8df2e1&e=1458333997&v&wowzasessionid=1415723340 HTTP/1.1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=true token=SECURET0KEN#yw%.?()@W! pageUrl=http://go.oclaserver.com/apu.php?zoneid=30468</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://mamahd.com/watch-sky-sports-2-live-streaming-free-1.html</sublink>
-<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://213.136.90.30:8000/live/guzi/isla/10212.ts</sublink>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
 </link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky Atlantic.png</thumbnail> 
 </item>
 
 <item>
-<title>Sky Sports 3</title>
+<title>Sky Atlantic+1</title> 
 <link>
-<sublink>rtmpe://185.23.213.215:1935/hfufdxdhrh/mamahdsky3 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdsky3&vw=854&vh=480</sublink>
-<sublink>http://www.ibrod.tv/skysports3.html</sublink>
-<sublink>http://giostreams.eu/ss3.html</sublink>
-<sublink>http://antenasport.com/skysports3hd.html</sublink>
-<sublink>http://www.crichd.tv/sky-sports-3-live-streaming-uk.php</sublink>
-<sublink>http://hdfree.tv/watch/4/sky-sports-3.html</sublink>
-<sublink>http://baltak.com/skysport3.html</sublink>
-<sublink>http://zunox.hk/sky3frame.html</sublink>
-<sublink>http://stream4.freehdsport.com/ss3.html</sublink>
-<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/7933.ts</sublink>
-<sublink>http://cdn540.xyz/live/sky3jgd27/playlist.m3u8?t=c35aca90b1d5c9f5cb22bfe6ca88bc88&e=1458158248&wowzasessionid=1207847355 HTTP/1.1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=true token=SECURET0KEN#yw%.?()@W! pageUrl=http://go.oclaserver.com/apu.php?zoneid=30468</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://mamahd.com/watch-sky-sports-3-live-stream-1.html</sublink>
-<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://213.136.90.30:8000/live/guzi/isla/10213.ts</sublink>
-<sublink>http://www.finecast.tv/embed4.php?u=sku3&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
-<sublink>http://www.finecast.tv/embed4.php?u=skysports3back&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
 </link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky Atlantic+1.png</thumbnail> 
 </item>
 
 <item>
-<title>Sky Sports 4</title>
+<title>Sky Premiere</title> 
 <link>
-<sublink>rtmpe://185.23.213.215:1935/hfufdxdhrh/mamahdsky3 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdsky3&vw=854&vh=480</sublink>
-<sublink>http://www.ibrod.tv/skysports3.html</sublink>
-<sublink>http://giostreams.eu/ss3.html</sublink>
-<sublink>http://antenasport.com/skysports3hd.html</sublink>
-<sublink>http://www.crichd.tv/sky-sports-3-live-streaming-uk.php</sublink>
-<sublink>http://hdfree.tv/watch/4/sky-sports-3.html</sublink>
-<sublink>http://baltak.com/skysport3.html</sublink>
-<sublink>http://zunox.hk/sky3frame.html</sublink>
-<sublink>http://stream4.freehdsport.com/ss3.html</sublink>
-<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/7933.ts</sublink>
-<sublink>http://cdn540.xyz/live/sky3jgd27/playlist.m3u8?t=c35aca90b1d5c9f5cb22bfe6ca88bc88&e=1458158248&wowzasessionid=1207847355 HTTP/1.1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=true token=SECURET0KEN#yw%.?()@W! pageUrl=http://go.oclaserver.com/apu.php?zoneid=30468</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://mamahd.com/watch-sky-sports-3-live-stream-1.html</sublink>
-<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://213.136.90.30:8000/live/guzi/isla/10213.ts</sublink>
-<sublink>http://www.finecast.tv/embed4.php?u=sku3&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
-<sublink>http://www.finecast.tv/embed4.php?u=skysports3back&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
 </link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky Premiere .png</thumbnail> 
 </item>
 
 <item>
-<title>Sky Sports 5</title>
+<title>Sky Prem+1</title> 
 <link>
-<sublink>rtmpe://185.23.213.215:1935/hfufdxdhrh/mamahdsky3 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdsky3&vw=854&vh=480</sublink>
-<sublink>http://www.ibrod.tv/skysports3.html</sublink>
-<sublink>http://giostreams.eu/ss3.html</sublink>
-<sublink>http://antenasport.com/skysports3hd.html</sublink>
-<sublink>http://www.crichd.tv/sky-sports-3-live-streaming-uk.php</sublink>
-<sublink>http://hdfree.tv/watch/4/sky-sports-3.html</sublink>
-<sublink>http://baltak.com/skysport3.html</sublink>
-<sublink>http://zunox.hk/sky3frame.html</sublink>
-<sublink>http://stream4.freehdsport.com/ss3.html</sublink>
-<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/7933.ts</sublink>
-<sublink>http://cdn540.xyz/live/sky3jgd27/playlist.m3u8?t=c35aca90b1d5c9f5cb22bfe6ca88bc88&e=1458158248&wowzasessionid=1207847355 HTTP/1.1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=true token=SECURET0KEN#yw%.?()@W! pageUrl=http://go.oclaserver.com/apu.php?zoneid=30468</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://mamahd.com/watch-sky-sports-3-live-stream-1.html</sublink>
-<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://213.136.90.30:8000/live/guzi/isla/10213.ts</sublink>
-<sublink>http://www.finecast.tv/embed4.php?u=sku3&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
-<sublink>http://www.finecast.tv/embed4.php?u=skysports3back&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
 </link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky Prem+1.png</thumbnail> 
 </item>
 
 <item>
-<title>SKY SPORTS F1</title>
+<title>Sky Showcase</title> 
 <link>
-<sublink>rtmpe://185.23.213.233:1935/hfufdxdhrh/mamahdskysportsf1 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskysportsf1&vw=854&vh=480</sublink>
-<sublink>http://stream4.freehdsport.com/ssf1.html</sublink>
-<sublink>http://www.crichd.tv/sky-sports-f1-live-stream-uk.php</sublink>
-<sublink>http://baltak.com/skysportf1.html</sublink>
-<sublink>http://hdfree.tv/watch/7/sky-sports-f1-live-stream-online.html</sublink>
-<sublink>http://zunox.hk/skyf1frame.html</sublink>
-<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/8892.ts</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://mamahd.com/watch-sky-sports-formula-1-live-stream-1.html</sublink>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
 </link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky Showcase.png</thumbnail> 
 </item>
 
 <item>
-<title>Sky Sport News</title> 
+<title>Sky Disney</title> 
 <link>
-<sublink>rtmpe://185.23.213.235:1935/hfufdxdhrh/mamahdskynews swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskynews&vw=854&vh=480</sublink>
-<sublink>http://giostreams.eu/ssn.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://mamahd.com/watch-sky-sports-news-live-stream-1.html</sublink>
-<sublink>http://zunox.hk/ssnframe.html</sublink>
-<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/8890.ts</sublink>
-<sublink>http://cp.dmbshare.net:8000/live/c4a/c4a/2761.m3u8</sublink>
-<sublink>http://www.finecast.tv/embed4.php?u=sktnews&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
 </link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky Disney.png</thumbnail> 
+</item>
+
+<item>
+<title>Sky Family</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky Family.png</thumbnail> 
+</item>
+
+<item>
+<title>Sky Action</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky Action.png</thumbnail> 
+</item>
+
+<item>
+<title>Sky Comedy</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky Comedy.png</thumbnail> 
+</item>
+
+<item>
+<title>Sky Thriller</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky Thriller.png</thumbnail> 
+</item>
+
+<item>
+<title>Sky DramaRom</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky DramaRom.png</thumbnail> 
+</item>
+
+<item>
+<title>Sky ScFi Horror</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky ScFi Horror.png</thumbnail> 
+</item>
+
+<item>
+<title>Sky Select</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky Select.png</thumbnail> 
+</item>
+
+<item>
+<title>Sky News</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky News.png</thumbnail> 
+</item>
+
+<item>
+<title>Sky Sp NewsHQ</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky Sp NewsHQ.png</thumbnail> 
+</item>
+
+<item>
+<title>Sky Sports 1</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky Sports 1.png</thumbnail> 
+</item>
+
+<item>
+<title>Sky Sports 2</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky Sports 2.png</thumbnail> 
+</item>
+
+<item>
+<title>Sky Sports 3</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky Sports 3.png</thumbnail> 
+</item>
+
+<item>
+<title>Sky Sports 4</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky Sports 4.png</thumbnail> 
+</item>
+
+<item>
+<title>Sky Sports 5</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky Sports 5.png</thumbnail> 
+</item>
+
+<item>
+<title>Sky Sports F1</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Sky Sports F1.png</thumbnail> 
 </item>
 
 <item>
 <title>BT Sport 1</title> 
 <link>
-<sublink>rtmpe://185.23.213.235:1935/hfufdxdhrh/mamahdbtsport1 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdbtsport1&vw=854&vh=480</sublink>
-<sublink>http://www.finecast.tv/embed4.php?u=btsport1back&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
-<sublink>http://www.finecast.tv/embed4.php?u=btsp1&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
-<sublink>http://www.serbiaplus.club/btsport1sk.html</sublink>
-<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bit.ly/1Wjwkvw</sublink>
-<sublink>http://www.ibrod.tv/btsports1.html</sublink>
-<sublink>http://giostreams.eu/bt1.html</sublink>
-<sublink>http://stream4.freehdsport.com/bt2.html</sublink>
-<sublink>http://www.crichd.tv/bt-sport-1-live-stream.php</sublink>
-<sublink>http://www.shadow-net.me/channels/BT-Sport-1.html</sublink>
-<sublink>http://hdfree.tv/watch/8/bt-sport-1-live-stream-online.html</sublink>
-<sublink>http://zunox.hk/btsport1frame.html</sublink>
-<sublink>http://baltak.com/btsport1.html</sublink>
-<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.231.144.15:4000/play/a00o live=true</sublink>
-<sublink>rtmp://185.63.255.18:80/live playpath=wodhs1j swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=wodhs1j&vw=736&vh=438 token=%Zrey(nKa@#Z</sublink>
-<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/lukewsheridan1/lukewsheridan1/4592.ts</sublink>
-<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://cp.dmbshare.net:8000/live/lukewsheridan1/lukewsheridan1/4592.ts</sublink>
-<sublink>http://02e4.vp9.tv/chn/btsu1/v.m3u8</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://mamahd.com/watch-bt-sport-1-live-streaming-1.html</sublink>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
 </link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/BT Sport 1.png</thumbnail> 
 </item>
 
 <item>
 <title>BT Sport 2</title> 
 <link>
-<sublink>rtmpe://185.23.213.236:1935/hfufdxdhrh/mamahdbtsport2 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdbtsport2&vw=854&vh=480</sublink>
-<sublink>http://www.finecast.tv/embed4.php?u=btu2&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
-<sublink>http://www.finecast.tv/embed4.php?u=btsport2back&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
-<sublink>http://www.serbiaplus.club/btsport2sk.html</sublink>
-<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bit.ly/1qCQ41u</sublink>
-<sublink>http://www.ibrod.tv/btsports2.html</sublink>
-<sublink>http://giostreams.eu/bt2.html</sublink>
-<sublink>http://www.crichd.tv/bt-sport-2-live-stream-uk.php</sublink>
-<sublink>http://baltak.com/btsport2.html</sublink>
-<sublink>http://stream4.freehdsport.com/bt2.html</sublink>
-<sublink>http://www.shadow-net.me/channels/BT-Sport-2.html</sublink>
-<sublink>http://hdfree.tv/watch/9/bt-sport-2-live-stream-online.html</sublink>
-<sublink>http://zunox.hk/btsport2frame.html</sublink>
-<sublink>http://212.231.144.15:4000/play/a00p live=true</sublink>
-<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/8895.ts</sublink>
-<sublink>rtmp://185.63.255.60:80/live playpath=dodhs2j swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=dodhs2j&vw=736&vh=438 token=%Zrey(nKa@#Z</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3d%252Fbtsport2.php%26title%3dBT%2bSport%2b2%26url%3dhttp%253A%252F%252Fwww.liveonlinetv247.info%252Fembed%252Fbtsport2.php%26videoTitle%3dBT%2bSport%2b2%26director%3dliveonlinetv247%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.liveonlinetv247.info%252Ftvchannels.php%26definedIn%3dcustoms%252Fliveonlinetv247.net.cfg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.liveonlinetv247.info%252Fimages%252Fbtsport2icon.png&mode=1</sublink>
-<sublink>rtmp://185.63.255.18:80/live playpath=dodhs2j swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=dodhs2j&vw=688&vh=387 token=%Zrey(nKa@#Z</sublink>
-<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.231.219:88/live/24326/24326/10.ts</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://mamahd.com/watch-bt-sport-2-live-stream-1.html</sublink>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
 </link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/BT Sport 2.png</thumbnail> 
 </item>
 
 <item>
-<title>BT EU</title>
+<title>BT Sport Europe</title> 
 <link>
-<sublink>rtmpe://185.23.213.236:1935/hfufdxdhrh/mamahdbteu swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdbteu&vw=854&vh=480</sublink>
-<sublink>http://www.finecast.tv/embed4.php?u=bteurop&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
-<sublink>http://antenasport.com/bteuropelive.html</sublink>
-<sublink>http://www.serbiaplus.club/bteuropesk.html</sublink>
-<sublink>http://www.shadow-net.me/channels/BT-Sport-Europe.html</sublink>
-<sublink>http://hdfree.tv/watch/32/bt-sport-europe-live-stream.html</sublink>
-<sublink>http://giostreams.eu/bteuro.html</sublink>
-<sublink>http://www.crichd.tv/bt-sport-europe-live-stream-uk1.php</sublink>
-<sublink>http://stream4.freehdsport.com/bteu.html</sublink>
-<sublink>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtvbteu_5msgj44x swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2019,0,0,226 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtvbteu&autoplay=true&strech=exactfit</sublink>
-<sublink>rtmp://185.63.255.18:80/live playpath=qodhsej swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=qodhsej&vw=736&vh=438 token=%Zrey(nKa@#Z</sublink>
-<sublink>http://212.231.144.15:4000/play/a00q live=true</sublink>
-<sublink>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtvbteu_5msgj44x swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2019,0,0,226 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtvbteu&autoplay=true&strech=exactfit</sublink>
-<sublink>rtmpe://162.253.130.26:1935/aqq/bteulsh swfUrl=http://www.lshstream.com/jw/jwplayer.flash.swf flashver=WIN/2019,0,0,226 live=1 token=SECURET0KEN#yw%.?()@W! timeout=14 swfVfy=1 pageUrl=http://cdn.lshstream.com/embed.php?u=bteulsh</sublink>
-<sublink>rtmpe://80.82.64.54:80/live/ playpath=04?RFSmp swfUrl=http://www.castup.me/player/pl.swf live=1 token=#@8x12pX@!x@# timeout=15 swfVfy=1 pageUrl=http://www.castup.tv</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://mamahd.com/watch-liverpool-live-streaming-free-online-1.html</sublink>
-<sublink>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtvbteu_5msgj44x swfUrl=http://www.shadow-net.biz/javascript/videojs/flashls/video-js.swf flashver=WIN/2020,0,0,306 live=true timeout=18 swfVfy=1 pageUrl=http://www.shadow-net.biz/</sublink>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
 </link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/BT Sport Europe.png</thumbnail> 
 </item>
 
 <item>
-<title>BT ESPN</title>
+<title>BT Sport ESPN</title> 
 <link>
-<sublink>rtmpe://185.23.213.236:1935/hfufdxdhrh/mamahdbteu swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdbteu&vw=854&vh=480</sublink>
-<sublink>http://www.finecast.tv/embed4.php?u=bteurop&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
-<sublink>http://antenasport.com/bteuropelive.html</sublink>
-<sublink>http://www.serbiaplus.club/bteuropesk.html</sublink>
-<sublink>http://www.shadow-net.me/channels/BT-Sport-Europe.html</sublink>
-<sublink>http://hdfree.tv/watch/32/bt-sport-europe-live-stream.html</sublink>
-<sublink>http://giostreams.eu/bteuro.html</sublink>
-<sublink>http://www.crichd.tv/bt-sport-europe-live-stream-uk1.php</sublink>
-<sublink>http://stream4.freehdsport.com/bteu.html</sublink>
-<sublink>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtvbteu_5msgj44x swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2019,0,0,226 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtvbteu&autoplay=true&strech=exactfit</sublink>
-<sublink>rtmp://185.63.255.18:80/live playpath=qodhsej swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=qodhsej&vw=736&vh=438 token=%Zrey(nKa@#Z</sublink>
-<sublink>http://212.231.144.15:4000/play/a00q live=true</sublink>
-<sublink>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtvbteu_5msgj44x swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2019,0,0,226 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtvbteu&autoplay=true&strech=exactfit</sublink>
-<sublink>rtmpe://162.253.130.26:1935/aqq/bteulsh swfUrl=http://www.lshstream.com/jw/jwplayer.flash.swf flashver=WIN/2019,0,0,226 live=1 token=SECURET0KEN#yw%.?()@W! timeout=14 swfVfy=1 pageUrl=http://cdn.lshstream.com/embed.php?u=bteulsh</sublink>
-<sublink>rtmpe://80.82.64.54:80/live/ playpath=04?RFSmp swfUrl=http://www.castup.me/player/pl.swf live=1 token=#@8x12pX@!x@# timeout=15 swfVfy=1 pageUrl=http://www.castup.tv</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://mamahd.com/watch-liverpool-live-streaming-free-online-1.html</sublink>
-<sublink>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtvbteu_5msgj44x swfUrl=http://www.shadow-net.biz/javascript/videojs/flashls/video-js.swf flashver=WIN/2020,0,0,306 live=true timeout=18 swfVfy=1 pageUrl=http://www.shadow-net.biz/</sublink>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
 </link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/BT Sport ESPN.png</thumbnail> 
 </item>
 
 <item>
-<title>BOXNATION</title>
+<title>BoxNation</title> 
 <link>
-<sublink>rtmpe://185.23.213.236:1935/hfufdxdhrh/mamahdboxnation swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdboxnation&vw=854&vh=480</sublink>
-<sublink>http://www.shadow-net.me/channels/BoxNation.html</sublink>
-<sublink>http://giostreams.eu/box.html</sublink>
-<sublink>http://www.finecast.tv/embed4.php?u=boxoo&vw=650&vh=470&referer=http://livetvweb.net/</sublink>
-<sublink>http://wizhdsports.com/watch/box-nation-live-stream.html</sublink>
-<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://selling-team.net:8000/live/gastr/HDf0y7ePuT/4818.ts</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://mamahd.com/watch-box-live-stream-free-online-1.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://mamahd.com/watch-box-nation-live-streaming-free-online-1.html</sublink>
-<sublink>http://cp.dmbshare.net:8000/live/c4a/c4a/2831.m3u8</sublink>
-<sublink>http://cp.dmbshare.net:8000/live/aaron/aaron/2831.m3u8</sublink>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
 </link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/BoxNation.png</thumbnail> 
+</item>
+
+<item>
+<title>B4U Movies</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/B4U Movies.png</thumbnail> 
+</item>
+
+<item>
+<title>B4U Music</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/B4U Music.png</thumbnail> 
+</item>
+
+<item>
+<title>SONY TV Asia</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/SONY TV Asia.png</thumbnail> 
+</item>
+
+<item>
+<title>SONY SAB</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/SONY SAB.png</thumbnail> 
+</item>
+
+<item>
+<title>SONY MAX</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/SONY MAX.png</thumbnail> 
+</item>
+
+<item>
+<title>Star Life OK</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Star Life OK.png</thumbnail> 
+</item>
+
+<item>
+<title>Star Plus</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Star Plus.png</thumbnail> 
+</item>
+
+<item>
+<title>Star Jalsha</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Star Jalsha.png</thumbnail> 
+</item>
+
+<item>
+<title>Star GOLD</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Star GOLD.png</thumbnail> 
+</item>
+
+<item>
+<title>Zee TV</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Zee TV.png</thumbnail> 
+</item>
+
+<item>
+<title>Zing</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Zing.png</thumbnail> 
+</item>
+
+<item>
+<title>Zee Cinema</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Zee Cinema.png</thumbnail> 
 </item>
 
 <item>
@@ -510,6 +719,173 @@ name =  dmode
 <sublink>http://www.filmon.com/channel/bbc-one</sublink>
 <sublink>plugin://plugin.video.ZemTV-shani/?url=Q0Y6MjM1&mode=11&name=%5BCOLOR+blue%5DColors+uk+cf%5B%2FCOLOR%5D</sublink>
 </link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/COLORS.png</thumbnail> 
 </item>
 
+<item>
+<title>Rishtey</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Rishtey.png</thumbnail> 
+</item>
+
+<item>
+<title>&amp;TV</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/&amp;TV.png</thumbnail> 
+</item>
+
+<item>
+<title>UMP Movies</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/UMP Movies.png</thumbnail> 
+</item>
+
+<item>
+<title>ARY News</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ARY News.png</thumbnail> 
+</item>
+
+<item>
+<title>ARY Digital</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ARY Digital.png</thumbnail> 
+</item>
+
+<item>
+<title>ARY QTV</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ARY QTV.png</thumbnail> 
+</item>
+
+<item>
+<title>PTV Prime</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/PTV Prime.png</thumbnail> 
+</item>
+
+<item>
+<title>PTV Global</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/PTV Global.png</thumbnail> 
+</item>
+
+<item>
+<title>GEO TV</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/GEO TV.png</thumbnail> 
+</item>
+
+<item>
+<title>GEO Tez</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/GEO Tez.png</thumbnail> 
+</item>
+
+<item>
+<title>GEO News</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/GEO News.png</thumbnail> 
+</item>
+
+<item>
+<title>HUM EUROPE</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/HUM EUROPE.png</thumbnail> 
+</item>
+
+<item>
+<title>DM PLus TV</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/DM Plus TV.png</thumbnail> 
+</item>
+
+<item>
+<title>Noor TV</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Noor TV.png</thumbnail> 
+</item>
+
+<item>
+<title>IQRA TV</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/IQRA TV.png</thumbnail> 
+</item>
+
+<item>
+<title>Peace TV</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Peace TV.png</thumbnail> 
+</item>
+
+<item>
+<title>Peace TV Urdu</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Peace TV Urdu.png</thumbnail> 
+</item>
+
+<item>
+<title>Islam Ch Urdu</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Islam Ch Urdu.png</thumbnail> 
+</item>
+
+<item>
+<title>AAJ TAK</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/AAj TAK.png</thumbnail> 
+</item>
+
+<item>
+<title>ABP News</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ABP News.png</thumbnail> 
+</item>
+
+<item>
+<title>Ummah TV</title> 
+<link>
+<sublink>http://www.filmon.com/channel/bbc-one</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Ummah TV.png</thumbnail> 
+</item>
