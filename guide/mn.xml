@@ -4,14 +4,14 @@ name =  dmode
  dir = ndmode
 
 <item> 
-<title>[COLOR red]Links Added On:03/09/17 06:29pm[/COLOR]</title>
+<title>[COLOR red]Links Added On:03/09/17 06:32pm[/COLOR]</title>
 </item>
 
-<dir>
+<plugin>
 <title>Update Links</title>
 <link>plugin://plugin.video.phstreams/?action=clearCache</link>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
-</dir>
+</plugin>
 
 <dir>
 <title>Movies Links</title>
