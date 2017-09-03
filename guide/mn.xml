@@ -4,14 +4,14 @@ name =  dmode
  dir = ndmode
 
 <item> 
-<title>[COLOR red]Links Updated On:03/09/17[/COLOR]</title>
+<title>[COLOR red]Links Updated On:03/09/17 16:48pm[/COLOR]</title>
 </item>
 
-#<dir>
+<!--<dir>
 <title>[COLOR blue]Live TV[/COLOR]</title>
 <link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/livechannels.xml</link>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
-</dir>#
+</dir>-->
 
 <dir>
 <title>[COLOR green]Movies Links[/COLOR]</title>
@@ -25,9 +25,8 @@ name =  dmode
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
 </dir>
 
-#<dir>
+<dir>
 <title>[COLOR green]Update Links[/COLOR]</title>
-<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/movielinks.xml</link>
+<link>plugin://plugin.video.phstreams/?action=clearCache</link>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
-</dir>#
-
+</dir>
