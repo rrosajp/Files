@@ -3,16 +3,6 @@
 name =  dmode
  dir = ndmode
 
-<item> 
-<title>[COLOR red]Links Added On:04/09/17 02:00am[/COLOR]</title>
-</item>
-
-<plugin>
-<title>Update Links</title>
-<link>plugin://plugin.video.requests/?action=clearAll</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
-</plugin>
-
 <dir>
 <title>Movies Links</title>
 <link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/mv.xml</link>
@@ -24,5 +14,11 @@ name =  dmode
 <link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/tv.xml</link>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
 </dir>
+
+<plugin>
+<title>Update Links</title>
+<link>plugin://plugin.video.requests/?action=clearAll</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+</plugin>
 
 
