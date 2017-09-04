@@ -4,12 +4,12 @@ name =  dmode
  dir = ndmode
 
 <item> 
-<title>[COLOR red]Links Added On:03/09/17 12:35am[/COLOR]</title>
+<title>[COLOR red]Links Added On:03/09/17 01:07am[/COLOR]</title>
 </item>
 
 <plugin>
 <title>Update Links</title>
-<link>plugin://plugin.video.requests/?action=clearCache</link>
+<link>plugin://plugin.video.requests/?action=clearAll</link>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
 </plugin>
 
