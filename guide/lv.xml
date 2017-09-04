@@ -2,10 +2,6 @@
 
 name =  dmode
  dir = ndmode
-
-<item> 
-<title>[COLOR red]Links Added On:04/09/17[/COLOR]</title>
-</item>
  
 <item>
 <title>BBC One</title> 
@@ -893,3 +889,10 @@ name =  dmode
 </link>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Ummah TV.png</thumbnail> 
 </item>
+
+
+<plugin>
+<title>Update Links</title>
+<link>plugin://plugin.video.requests/?action=clearAll</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+</plugin>

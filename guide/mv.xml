@@ -2,10 +2,6 @@
 
 Movie Links
 
-<item> 
-<title>[COLOR red]Links Added On:04/09/17[/COLOR]</title>
-</item>
-
 <item>
 <title>Wonder Woman (2017)</title>
 <meta>
@@ -18,7 +14,6 @@ Movie Links
 <thumbnail>https://fanart.tv/fanart/movies/297762/movieposter/wonder-woman-59689f043fb66.jpg</thumbnail>
 <fanart>https://fanart.tv/fanart/movies/297762/moviebackground/wonder-woman-5920c12e7a041.jpg</fanart>
 </item>
-
 
 <item>
 <title>The Hitman's Bodyguard (2017)</title>
@@ -46,4 +41,8 @@ Movie Links
 <fanart>https://fanart.tv/fanart/movies/283995/moviebackground/guardians-of-the-galaxy-2-58ebc8b6aaed7.jpg</fanart>
 </item>
 
-
+<plugin>
+<title>Update Links</title>
+<link>plugin://plugin.video.requests/?action=clearAll</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+</plugin>

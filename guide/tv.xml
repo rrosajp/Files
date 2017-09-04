@@ -2,10 +2,6 @@
 
 TV Show Links
 
-<item> 
-<title>[COLOR red]Links Added On:04/09/17[/COLOR]</title>
-</item>
-
 <item>
 <title></title>
 <meta>
@@ -18,6 +14,12 @@ TV Show Links
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<plugin>
+<title>Update Links</title>
+<link>plugin://plugin.video.requests/?action=clearAll</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+</plugin>
 
 
 
