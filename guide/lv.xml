@@ -889,10 +889,3 @@ name =  dmode
 </link>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/Ummah TV.png</thumbnail> 
 </item>
-
-
-<plugin>
-<title>Update Links</title>
-<link>plugin://plugin.video.requests/?action=clearAll</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
-</plugin>

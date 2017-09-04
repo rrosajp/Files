@@ -22,9 +22,3 @@ name =  dmode
 </link>
 <thumbnail></thumbnail> 
 </item>
-
-<plugin>
-<title>Update Links</title>
-<link>plugin://plugin.video.requests/?action=clearAll</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
-</plugin>
