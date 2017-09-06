@@ -3,14 +3,20 @@
 name =  dmode
  dir = ndmode
 
+<item>
+<title>[COLOR red] Text me to request links [/COLOR]</title>
+<link>NoURL</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+</item>
+
 <dir>
-<title>Movies Links</title>
+<title>Movie Links</title>
 <link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/mv.xml</link>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
 </dir>
 
 <dir>
-<title>TV Shows Links</title>
+<title>TV Show Links</title>
 <link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/tv.xml</link>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
 </dir>
