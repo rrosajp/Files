@@ -3,7 +3,7 @@
 Movie Links
 
 <item>
-<title>Freaky Ali (2016) [B]HD[/B]</title>
+<title>Freaky Ali (2016)</title>
 <meta>
 <content>movie</content>
 <imdb>tt5943306</imdb>
@@ -18,7 +18,37 @@ Movie Links
 </item>
 
 <item>
-<title>Wonder Woman (2017) [B]HD[/B]</title>
+<title>Jab Harry met Sejal (2017)</title>
+<meta>
+<content>movie</content>
+<imdb>tt5997666</imdb>
+<title>Jab Harry met Sejal</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>https://drive.google.com/file/d/0B-xTGlP-R57ycGFkbGs3LVgtYTg/view</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pvmIbW5sDBlMtgJ0IINO3y4cSga.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/r3ujQIECFDdYAI4zbjdQGxb7dhs.jpg</fanart>
+</item>
+
+<item>
+<title>Guest Iin London (2017)</title>
+<meta>
+<content>movie</content>
+<imdb>tt6173826</imdb>
+<title>Guest Iin London</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>https://drive.google.com/file/d/0B-xTGlP-R57yeHZEXzFwRzBpVmM/view</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tB83piOP5YueVMTdFxhbqX1FMsi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/daODDOPfXXcq1c4NOPnc55NiDnw.jpg</fanart>
+</item>
+
+<item>
+<title>Wonder Woman (2017)</title>
 <meta>
 <content>movie</content>
 <imdb>tt0451279</imdb>
@@ -35,7 +65,7 @@ Movie Links
 </item>
 
 <item>
-<title>The Hitman's Bodyguard (2017) [B]HD[/B]</title>
+<title>The Hitman's Bodyguard (2017)</title>
 <meta>
 <content>movie</content>
 <imdb>tt1959563</imdb>
@@ -50,7 +80,7 @@ Movie Links
 </item>
 
 <item>
-<title>Guardians of the Galaxy Vol. 2 (2017) [B]HD[/B]</title>
+<title>Guardians of the Galaxy Vol. 2 (2017)</title>
 <meta>
 <content>movie</content>
 <imdb>tt3896198</imdb>
