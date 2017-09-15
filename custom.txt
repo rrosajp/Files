@@ -1,6 +1,6 @@
 ! Homepage: https://raw.githubusercontent.com/Sanjjay/Files/master/custom.txt
 ! Title: Custom Filter List 
-! Last modified: 29 June 2017 23:00 UTC
+! Last modified: 15 September 2017 21:00 UTC
 ! ---------- Custom Filter List ----------! 
 ! Removes all annotations in videos 
 !||youtube.com/annotations_invideo?$object-subrequest 
