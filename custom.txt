@@ -32,4 +32,4 @@ www.swalec.co.uk###aspnetForm > .cookies
 www.swalec.co.uk##.takeover__popupouter_reveal.takeover__popupouter
 mega.co.nz##.ads-right-block
 mega.co.nz##.ads-left-block
-openload.co##script:inject(abort-current-inline-script.js, $, ||byoftdngsqjezw.bid)
+@@||byoftdngsqjezw.bid^$script,domain=openload.co
