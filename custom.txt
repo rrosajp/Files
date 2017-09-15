@@ -1,6 +1,6 @@
 ! Homepage: https://raw.githubusercontent.com/Sanjjay/Files/master/custom.txt
 ! Title: Custom Filter List 
-! Last modified: 15 September 2017 21:00 UTC
+! Last modified: 15 September 2017 21:30 UTC
 ! ---------- Custom Filter List ----------! 
 ! Removes all annotations in videos 
 !||youtube.com/annotations_invideo?$object-subrequest 
@@ -32,4 +32,4 @@ www.swalec.co.uk###aspnetForm > .cookies
 www.swalec.co.uk##.takeover__popupouter_reveal.takeover__popupouter
 mega.co.nz##.ads-right-block
 mega.co.nz##.ads-left-block
-||openload.co^$inline-script
+openload.co##script:inject(abort-current-inline-script.js, $, ||byoftdngsqjezw.bid)
