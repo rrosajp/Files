@@ -10,14 +10,14 @@ name =  dmode
 </item>
 
 <dir>
-<title>Hollywood Movies</title>
-<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/homv.xml</link>
+<title>English Movies</title>
+<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/enmv.xml</link>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
 </dir>
 
 <dir>
-<title>Bollywood Movies</title>
-<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/bomv.xml</link>
+<title>Indian Movies</title>
+<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/inmv.xml</link>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
 </dir>
 
