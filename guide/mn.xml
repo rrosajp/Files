@@ -23,6 +23,15 @@ name =  dmode
 
 <plugin>
 
+<name>Update Links</name>
+
+<link>plugin://plugin.video.requests/?action=clearAll</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail>
+
+</plugin>
+
+<plugin>
+
 <name>Test Links</name>
 
 <link>plugin://plugin.video.requests/?action=developer</link>
