@@ -3,28 +3,36 @@
 
 <channels>
 
-<channels>
-<title>[COLOR yellow] Text me to request or fix links [/COLOR]</title>
-<link>NoURL</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
-</channels>
+<channel>
+<name>[COLOR yellow] Text me to request or fix links [/COLOR]</name>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
 
-<channels>
-<title>Movie Links</title>
-<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/mv.xml</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
-</channels>
+<channel>
+<name>Movie Links</name>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/mv.xml</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
 
-</channels>
-<title>TV Show Links</title>
-<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/tv.xml</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
-</channels>
+</channel>
+<name>TV Show Links</name>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/tv.xml</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
 
-</channels>
-<title>Sport Links</title>
-<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/sp.xml</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
-</channels>
+<channel>
+<name>Sport Links</name>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/sp.xml</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
 
 </channels>
