@@ -14,15 +14,15 @@
 <channel>
 <name>English Movies</name>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/enmv.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/enmv2.xml</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
 
-</channel>
+<channel>
 <name>Indian Movies</name>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/inmv.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/inmv2.xml</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
