@@ -1,0 +1,46 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+
+<channel>
+<name>[COLOR lime][B]Maverick Sports[/B][/COLOR]</name>
+<thumbnail>http://mavericktv.net/data/icons/sports.jpg</thumbnail>
+<externallink>http://mavericktv.net/data/sports/sports.xml</externallink>
+<fanart>http://www.soccerdatabase.info/wp-content/gallery/Wembley/Wembley-Stadium-Wallpaper-HD.jpg</fanart>
+<info>Maverick TV</info>
+</channel>
+
+<channel>
+<name>[COLOR lime][B]Maverick Live Sports[/B][/COLOR]</name>
+<thumbnail>http://mavericktv.net/data/icons/3pm.jpg</thumbnail>
+<externallink>http://mavericktv.net/data/sportslinks/prem.xml</externallink>
+<fanart>http://correctfootball.com/wp-content/uploads/2015/08/PREMIER-LEAGUE.jpg</fanart>
+<info>Maverick TV</info>
+</channel>
+
+<channel>
+<name>[COLOR white]Skynet Sports[/COLOR]</name>
+<thumbnail>http://mavericktv.net/data/skyiconspor.png</thumbnail>
+<externallink>http://mavericktv.net/data/home/skynet/sports.xml</externallink>
+<fanart>http://mavericktv.net/data/skynetbg.jpg</fanart>
+<info>SkyNet</info>
+</channel>
+
+<channel>
+<name>[COLOR aqua]Supremacy Sport[/COLOR]</name>
+<thumbnail>http://stephen-builds.uk/art/Sport.png</thumbnail>
+<externallink>http://stephen-builds.uk/supremacy/Sport/home.txt</externallink>
+<fanart>http://stephen-builds.uk/art/20839702_10207884860798337_363786087_o.jpg</fanart>
+<info>Sport Sky Sport Bt Sport Other Sport</info>
+</channel>
+
+<channel>
+<name>[COLOR aqua]Supremacy  Live Sport[/COLOR]</name>
+<thumbnail>http://stephen-builds.uk/art/live.png</thumbnail>
+<externallink>http://stephen-builds.uk/supremacy/Live%20Events/LiveEvents.xml</externallink>
+<fanart>http://stephen-builds.uk/art/20839702_10207884860798337_363786087_o.jpg</fanart>
+<info>Live Sport Game Time Only</info>
+</channel>
+
+</channels>

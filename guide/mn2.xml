@@ -1,0 +1,32 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+
+<channels>
+<item>
+<title>[COLOR yellow] Text me to request or fix links [/COLOR]</title>
+<link>NoURL</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+</item>
+</channels>
+
+<channels>
+<title>Movie Links</title>
+<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/mv.xml</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+</channels>
+
+</channels>
+<title>TV Show Links</title>
+<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/tv.xml</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+</channels>
+
+</channels>
+<title>Sport Links</title>
+<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/sp.xml</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+</channels>
+
+</channels>
