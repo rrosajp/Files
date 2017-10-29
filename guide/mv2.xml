@@ -12,25 +12,17 @@
 </channel>
 
 <channel>
-<name>Movie Links</name>
+<name>English Movies</name>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/mv2.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/enmv.xml</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
 
 </channel>
-<name>TV Show Links</name>
+<name>Indian Movies</name>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/tv.xml</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>Sport Links</name>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/sp.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/inmv.xml</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
