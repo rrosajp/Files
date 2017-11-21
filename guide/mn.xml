@@ -4,19 +4,13 @@ name =  dmode
  dir = ndmode
 
 <item>
-<title>[COLOR yellow] First search for links in Addons [/COLOR]</title>
+<title>[COLOR yellow] First search for links in other Addons and if you cannot [/COLOR]</title>
 <link>NoURL</link>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR yellow] if you cannot find any then[/COLOR]</title>
-<link>NoURL</link>
-<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
-</item>
-
-<item>
-<title>[COLOR yellow] text me to request links. [/COLOR]</title>
+<title>[COLOR yellow] find any links then text me to request links. [/COLOR]</title>
 <link>NoURL</link>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
 </item>
