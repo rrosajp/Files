@@ -19,10 +19,8 @@
 127.0.0.1 imp.startappservice.com
 127.0.0.1 img.applovin.com
 127.0.0.1 rt.applovin.com
-127.0.0.1 api.backendless.com
 127.0.0.1 reports.crashlytics.com
 127.0.0.1 baas.kinvey.com
-127.0.0.1 api.smooch.io
 127.0.0.1 scontent.xx.fbcdn.net
 127.0.0.1 res1.applovin.com
 127.0.0.1 rt.applvn.com
