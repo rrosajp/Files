@@ -27,28 +27,22 @@ name =  dmode
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
 </dir>
 
-<dir>
+</dir>
 <title>Live TV Links</title>
 <link>http://ajbuilds.uk/falcon_ultra/list2.xml</link>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
 </dir>
 
 </plugin>
-
 <name>Update Links</name>
-
 <link>plugin://plugin.video.requests/?action=clearAll</link>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail>
-
 </plugin>
 
 <plugin>
-
 <name>Test Links</name>
-
 <link>plugin://plugin.video.requests/?action=developer</link>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail>
-
 </plugin>
 
 
