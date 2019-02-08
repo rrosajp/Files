@@ -1,0 +1,16 @@
+
+
+adb shell settings put secure enabled_accessibility_services com.baronkiko.launcherhijack/com.baronkiko.launcherhijack.AccServ
+
+
+adb shell ------ then
+
+
+settings put secure enabled_accessibility_services com.baronkiko.launcherhijack/com.baronkiko.launcherhijack.AccServ
+
+settings put secure accessibility_enabled 1
+
+
+
+settings put secure accessibility_enabled 0
+settings delete secure enabled_accessibility_services 
