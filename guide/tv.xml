@@ -4,29 +4,25 @@ TV Show Links
 
 
 <item>
-<title>[COLOR yellow] Requests [0] [/COLOR]</title>
+<title>[COLOR yellow] Requests [1] [/COLOR]</title>
 <link>NoURL</link>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
 </item>
 
-</item>
-<title>Episode 1 - Pilot (Search English Subtitles on Subscene.com)</title>
+<item>
+<title>Dirilis Ertugrul - Resurrection Season 5</title>
 <meta>
-<content>episode</content>
-<imdb>tt4363004</imdb>
-<tvshowtitle>Dirilis Ertugrul - Resurrection</tvshowtitle>
+<content>season</content>
+<imdb>tt4320258</imdb>
+<tvshowtitle>Dirilis Ertugrul - Resurrection Season 5</tvshowtitle>
 <year>2014</year>
-<title>Episode 1 - Pilot (Search English Subtitles on Subscene.com)</title>
+<title>Dirilis Ertugrul - Resurrection Season 5</title>
 <premiered>2014</premiered>
-<season>01</season>
-<episode>01</episode>
+<season>05</season>
 </meta>
-<link>
-<sublink>https://www.youtube.com/watch?v=3yjO6yfHLcU</sublink>
-<sublink>https://vimeo.com/303692979</sublink>
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w500_and_h282_face/nY6gOiFJRn97ntTgcR2Pa8dMvX6.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/nY6gOiFJRn97ntTgcR2Pa8dMvX6.jpg</fanart>
+<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ertug.xml</link>
+<thumbnail>https://historicalfuntv.com/wp-content/uploads/2018/11/Dirilis-Ertugrul-season-5-poster-historicalfuntv.png</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp3054681.jpg</fanart>
 </item>
 
 </item>
