@@ -16,13 +16,13 @@ name =  dmode
 </item>
 
 <dir>
-<title>Movie Links</title>
+<title>Movies</title>
 <link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/mv.xml</link>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
 </dir>
 
 <dir>
-<title>TV Show Links</title>
+<title>TV Shows</title>
 <link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/tv.xml</link>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
 </dir>
