@@ -16,13 +16,13 @@ name =  dmode
 </item>
 
 <dir>
-<title>English Movies</title>
+<title>English</title>
 <link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/enmv.xml</link>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
 </dir>
 
 <dir>
-<title>Indian Movies</title>
+<title>Hindi</title>
 <link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/inmv.xml</link>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
 </dir>
