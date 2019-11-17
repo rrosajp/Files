@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+
+<dir>
+<title>4K Movies</title>
+<link>http://ajbuilds.uk/phoenix/4k_movies.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+</item>
+<title>Dirilis Ertugrul S01E01 - Pilot (Search English Subtitles on Subscene.com)</title>
+<meta>
+<content>episode</content>
+<tvdb>288984</tvdb>
+<tvshowtitle>Dirilis Ertugrul with English Subtitles</tvshowtitle>
+<year>2014</year>
+<title> Dirilis Ertugrul S01E01 - Pilot (Search English Subtitles on Subscene.com)</title>
+<premiered>2014</premiered>
+<season>01</season>
+<episode>01</episode>
+</meta>
+<link>
+<sublink>https://verystream.com/gettoken/ibJtK9gYzUR~1567983973~2a02:c7f::~p-UxVt0v?mime=true</sublink>
+<sublink>https://photos.google.com/share/AF1QipPjsBMyw_O4LdC-ez3eMueD4FmBQugrUmmPwSqpQ6zrs8kVR6VhHSTirVSxHtY2cg?key=dGpKYlVPclVOd3ZCWXhURXZ3MGEtcW5TYzlUdnpR</sublink>
+<sublink>https://fe7.lookmovie.ag/c/9ejZLdRf9x3Su9Nxw0zyrA/1569918792/storage3/movies/6806448-fast-furious-presents-hobbs-shaw-2019-1569568293/720p/index.m3u8</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w500_and_h282_face/nY6gOiFJRn97ntTgcR2Pa8dMvX6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/nY6gOiFJRn97ntTgcR2Pa8dMvX6.jpg</fanart>
+</item>
+
+</plugin>
+<name>Ertugrul</name>
+<link>plugin://plugin.video.youtube/channel/UCalAM_EpRfd9LNlp1AvxO2w/playlist/PL9-8NdEyCHsdAkr4vNCm1zLpP_6m_hbmf/</link>
+#<link>plugin://plugin.video.youtube/play/?playlist_id=PL9-8NdEyCHsdAkr4vNCm1zLpP_6m_hbmf&order=reverse</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail>
+</plugin>
+
+</plugin>
+<name>Live NetTV</name>
+<link>plugin://plugin.video.livenettv/</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail>
+</plugin>
+
+</item>
+<title>White Collar 6x05 Whack-A-Mole</title>
+<meta>
+<content>episode</content>
+<imdb>tt3782006</imdb>
+<tvdb></tvdb>
+<tvshowtitle>White Collar</tvshowtitle>
+<year>2009</year>
+<title>Whack-A-Mole</title>
+<premiered></premiered>
+<season>06</season>
+<episode>05</episode>
+</meta>
+<link>
+<sublink>https://www461.playercdn.net/85/3/3ZxGrrU8Y7wRXXLonTmWbw/1513207945/171011/572FKELCSAYJRNNWULPLG.mp4</sublink>
+</link>
+<thumbnail>https://fanart.tv/fanart/tv/108611/tvposter/white-collar-5463913549015.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/tv/108611/showbackground/white-collar-53628e4a0fcb2.jpg</fanart>
+</item>
+
+<item>
+<title>Links Testing</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title></title>
+<year></year>
+</meta>
+<link>
+<sublink></sublink>
+<sublink>https://drive.google.com/file/d/0BxTRp_V2UTMGYUN3bklJOURaMlU/view</sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://asoiptv.com:9000/live/ch/ch/34248.ts</sublink>
+<sublink>https://storage.googleapis.com/staging.europe-west-181907.appspot.com/Newmovies/Ne-610/a1/The.Emoji.Movie.2017.1080p.BluRay.H264.AAC-RARBG.mp4</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+</item>
+<title>Wonder Woman (2017)</title>
+<meta>
+<content>movie</content>
+<imdb>tt0451279</imdb>
+<title>wonder woman (2017)</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>http://s41.uploadcdn.net:182/d/bpfsb6t7jife6mqa6czsbn6gtjkmgnde4vr4qdphmjarkw3d46rqhsocz24vypc7hk5tplfg/Wonder.Woman.2017.720p.WEB-DL.H264.AC3-EVO.mkv</sublink>
+<sublink>http://usersfiles.com/vf9j9aiu9uqh</sublink>
+</link>
+<thumbnail>https://fanart.tv/fanart/movies/297762/movieposter/wonder-woman-59689f043fb66.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/movies/297762/moviebackground/wonder-woman-5920c12e7a041.jpg</fanart>
+</item>
+
+
+
+
