@@ -9,18 +9,37 @@ TV Show Links
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
 </item>
 
-</dir>
-<title>Season 5</title>
+<dir>
+<title>Kurulus - Osman</title>
 <meta>
 <content>tvshow</content>
+<imdb>tt11093718</imdb>
+<tvdb></tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Kurulus - Osman</title>
+<premiered>2019</premiered>
+<season></season>
+</meta>
+<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/osman1.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tu4BWsGFHcYDWulZwHxylA91vo0.jpg</thumbnail>
+<fanart>https://1001dizi.net/kullanici_paneli/images2/haber/_kurulus18kasim1.jpg</fanart>
+</dir>
+
+
+</dir>
+<title>Dirilis Ertugrul - Resurrection</title>
+<meta>
+<content>tvshow</content>
+<imdb></imdb>
 <tvdb>288984</tvdb>
 <tvshowtitle>Dirilis Ertugrul - Resurrection</tvshowtitle>
 <year>2014</year>
 <title>Dirilis Ertugrul - Resurrection</title>
 <premiered>2014</premiered>
-<season>05</season>
+<season></season>
 </meta>
-<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ertug.xml</link>
+<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ertug1.xml</link>
 <thumbnail>https://historicalfuntv.com/wp-content/uploads/2018/11/Dirilis-Ertugrul-season-5-poster-historicalfuntv.png</thumbnail>
 <fanart>https://wallpapercave.com/wp/wp3054681.jpg</fanart>
 </dir>
