@@ -12,9 +12,9 @@ TV Show Season Links
 <dir>
 <title>Season 1</title>
 <meta>
-<content>tvshow</content>
+<content>season</content>
 <imdb>tt11093718</imdb>
-<tvdb></tvdb>
+<tvdb>366399</tvdb>
 <tvshowtitle>Kurulus - Osman</tvshowtitle>
 <year>2019</year>
 <title>Kurulus - Osman</title>
@@ -23,5 +23,5 @@ TV Show Season Links
 </meta>
 <link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/osman2.xml</link>
 <thumbnail>https://image.tmdb.org/t/p/original/tu4BWsGFHcYDWulZwHxylA91vo0.jpg</thumbnail>
-<fanart>https://1001dizi.net/kullanici_paneli/images2/haber/_kurulus18kasim1.jpg</fanart>
+<fanart>https://historicalfuntv.com/data/uploads/2019/11/KurulusOman-Cover-historicalfuntv.com_.jpg</fanart>
 </dir>
