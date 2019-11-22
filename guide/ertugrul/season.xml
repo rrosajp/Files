@@ -3,7 +3,7 @@
 TV Show Season Links
 
 
-</item>
+<item>
 <title>[COLOR yellow] Requests [1] [/COLOR]</title>
 <link>NoURL</link>
 <thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
@@ -21,12 +21,12 @@ TV Show Season Links
 <premiered>2014</premiered>
 <season>01</season>
 </meta>
-<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ertug.xml</link>
+<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ertugrul/episodes01.xml</link>
 <thumbnail>https://historicalfuntv.com/wp-content/uploads/2018/11/Dirilis-Ertugrul-season-5-poster-historicalfuntv.png</thumbnail>
 <fanart>https://wallpapercave.com/wp/wp3054681.jpg</fanart>
 </dir>
 
-</dir>
+<dir>
 <title>Season 2</title>
 <meta>
 <content>tvshow</content>
@@ -37,12 +37,12 @@ TV Show Season Links
 <premiered>2014</premiered>
 <season>02</season>
 </meta>
-<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ertug.xml</link>
+<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ertugrul/episodes02.xml</link>
 <thumbnail>https://historicalfuntv.com/wp-content/uploads/2018/11/Dirilis-Ertugrul-season-5-poster-historicalfuntv.png</thumbnail>
 <fanart>https://wallpapercave.com/wp/wp3054681.jpg</fanart>
 </dir>
 
-</dir>
+<dir>
 <title>Season 3</title>
 <meta>
 <content>tvshow</content>
@@ -53,12 +53,12 @@ TV Show Season Links
 <premiered>2014</premiered>
 <season>03</season>
 </meta>
-<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ertug.xml</link>
+<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ertugrul/episodes03.xml</link>
 <thumbnail>https://historicalfuntv.com/wp-content/uploads/2018/11/Dirilis-Ertugrul-season-5-poster-historicalfuntv.png</thumbnail>
 <fanart>https://wallpapercave.com/wp/wp3054681.jpg</fanart>
 </dir>
 
-</dir>
+<dir>
 <title>Season 4</title>
 <meta>
 <content>tvshow</content>
@@ -69,13 +69,13 @@ TV Show Season Links
 <premiered>2014</premiered>
 <season>04</season>
 </meta>
-<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ertug.xml</link>
+<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ertugrul/episodes04.xml</link>
 <thumbnail>https://historicalfuntv.com/wp-content/uploads/2018/11/Dirilis-Ertugrul-season-5-poster-historicalfuntv.png</thumbnail>
 <fanart>https://wallpapercave.com/wp/wp3054681.jpg</fanart>
 </dir>
 
 
-</dir>
+<dir>
 <title>Season 5</title>
 <meta>
 <content>tvshow</content>
@@ -86,7 +86,7 @@ TV Show Season Links
 <premiered>2014</premiered>
 <season>05</season>
 </meta>
-<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ertug.xml</link>
+<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ertugrul/episodes05.xml</link>
 <thumbnail>https://historicalfuntv.com/wp-content/uploads/2018/11/Dirilis-Ertugrul-season-5-poster-historicalfuntv.png</thumbnail>
 <fanart>https://wallpapercave.com/wp/wp3054681.jpg</fanart>
 </dir>

@@ -21,13 +21,13 @@ TV Show Links
 <premiered>2019</premiered>
 <season></season>
 </meta>
-<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/osman1.xml</link>
+<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/osman/season.xml</link>
 <thumbnail>https://artworks.thetvdb.com/banners/series/372435/posters/62001399.jpg</thumbnail>
 <fanart>https://haberport.com/images/haberler/2019/11/kurulus-osman-dizisi-nerede-cekiliyor-dizi-seti-nerededir.jpg</fanart>
 </dir>
 
 
-</dir>
+<dir>
 <title>Dirilis Ertugrul - Resurrection</title>
 <meta>
 <content>tvshow</content>
@@ -39,7 +39,7 @@ TV Show Links
 <premiered>2014</premiered>
 <season></season>
 </meta>
-<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ertug1.xml</link>
+<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/ertugrul/season.xml</link>
 <thumbnail>https://historicalfuntv.com/wp-content/uploads/2018/11/Dirilis-Ertugrul-season-5-poster-historicalfuntv.png</thumbnail>
 <fanart>https://wallpapercave.com/wp/wp3054681.jpg</fanart>
 </dir>
