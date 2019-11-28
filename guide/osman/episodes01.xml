@@ -15,15 +15,39 @@
 <episode>01</episode>
 </meta>
 <link>
-<sublink>https://gcs-vimeo.akamaized.net/exp=1574545456~acl=%2A%2F1561420514.mp4%2A~hmac=5d5c9342795925f3c04b7c4d65d58712834d209b1b4326796a068710908434da/vimeo-prod-skyfire-std-us/01/4954/14/374773244/1561420514.mp4</sublink>
-<sublink>https://gcs-vimeo.akamaized.net/exp=1574545535~acl=%2A%2F1561328103.mp4%2A~hmac=2c91e9b4e485f3796e58c3a87d8d47c2489e6eefd13d55f26f010059481afa78/vimeo-prod-skyfire-std-us/01/4951/14/374757629/1561328103.mp4</sublink>
-<sublink>https://video-arn2-2.xx.fbcdn.net/v/t39.24130-2/10000000_804330973365198_1292742608755429518_n.mp4?_nc_cat=108&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=ytUKtnZil5AAQnB49VDOCsE3GXbpSzvQ3LaqHuwAvj60yUEe5cc4WrdJA&_nc_ht=video-arn2-2.xx&oh=a387b319d3d6b0d535c2d08e6887e5f4&oe=5E449FD1</sublink>
-<sublink>https://video-sea1-1.xx.fbcdn.net/v/t42.26565-2/10000000_528286741351477_1778970721682870184_n.mp4?_nc_cat=1&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9zZCJ9&_nc_ohc=KgZv_aFnif8AQkbnD2zwvxbMh1JT5ZWTMzcXx3cvKsjvrT3Z7aReEiHHw&_nc_ht=video-sea1-1.xx&oh=1614ec741a2c2d6a933641c932a09796&oe=5DD6CE90</sublink>
-<sublink></sublink>
+<sublink>https://skyfire.vimeocdn.com/1574944750-0x79b8cd5e723be26806321146065cc2f9ab460025/374757629/video/1563825520/master.m3u8</sublink>
+<sublink>https://skyfire.vimeocdn.com/1574942063-0xd5145959809071cf0dcb05df1688f3d2deb4acb2/374773244/video/1563845794/master.m3u8</sublink>
+<sublink>https://video-arn2-1.xx.fbcdn.net/v/t39.24130-2/10000000_109274513735659_6124748482706532412_n.mp4?_nc_cat=1&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=5SY6_sZUopcAQnzfhIWZ0iUerIkpCcqscNq2pAYwtaGaaRdjggBtNimdQ&_nc_ht=video-arn2-1.xx&oh=758c6deba38462b708d2480fd3979b0b&oe=5E8C0215</sublink>
 <sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>https://img.youtube.com/vi/0fTJyCTwznM/0.jpg</thumbnail>
+<fanart>https://haberport.com/images/haberler/2019/11/kurulus-osman-dizisi-nerede-cekiliyor-dizi-seti-nerededir.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 02</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>366399</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 02</title>
+<premiered>27/11/2019</premiered>
+<season>01</season>
+<episode>02</episode>
+</meta>
+<link>
+<sublink>https://gcs-vimeo.akamaized.net/exp=1574978929~acl=%2A%2F1568991289.mp4%2A~hmac=86456ec070196a620930b756417869aa7c99e1051da32d644367a7d03ca457b2/vimeo-prod-skyfire-std-us/01/212/15/376062433/1568991289.mp4</sublink>
+<sublink>https://gcs-vimeo.akamaized.net/exp=1574979123~acl=%2A%2F1569042331.mp4%2A~hmac=d6ed0f6d885017b3b5b6d0e867bda3c5b2e59435cc97847e7d7cd7d8f9e4028d/vimeo-prod-skyfire-std-us/01/214/15/376071586/1569042331.mp4</sublink>
+<sublink>https://skyfire.vimeocdn.com/1574978929-0x1fe4b220e2986532b5398b742395cd942f41579a/376062433/video/1568991289/master.m3u8</sublink>
+<sublink>https://skyfire.vimeocdn.com/1574979123-0xe3cefea93412257e2487641f04e75670621fdd39/376071586/video/1569042331/master.m3u8</sublink>
+<sublink>https://video-arn2-1.xx.fbcdn.net/v/t39.24130-2/10000000_280994146142308_7175480643687217387_n.mp4?_nc_cat=111&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=mY8R9HWut_EAQlvYKstEG9m1QqW54WzgcgcAqUmqXSTZrNhREHm0zQUIA&_nc_ht=video-arn2-1.xx&oh=acbe16c08a8d735c531387289cabd8a6&oe=5E4C33E8</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>https://img.youtube.com/vi/ugLGoSZvuOc/0.jpg</thumbnail>
 <fanart>https://haberport.com/images/haberler/2019/11/kurulus-osman-dizisi-nerede-cekiliyor-dizi-seti-nerededir.jpg</fanart>
 </item>
 
