@@ -22,14 +22,11 @@ import re,requests
 def GetLSProData(page_data,Cookie_Jar,m):
   list=re.findall('"progressive"(?s)(.*?)"barebone_js',page_data)[0]
   if '1080' in list:
-    return re.findall('.+"url":"([^"]+).+?"quality":"1080',list)[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/376113323'
-  elif '720' in list:
-    return re.findall('.+"url":"([^"]+).+?"quality":"720',list)[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/376113323'
+    return re.findall('.+"url":"([^"]+).+?"quality":"1080',list)[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/374757629'
 ]]></expres>
-<page>https://player.vimeo.com/video/376113323</page>
-<referer>https://osmanonline.co.uk/?page_id=173</referer>
+<page>https://player.vimeo.com/video/374757629</page>
+<referer>https://historicalfuntv.com/episodes/kurulus-osman-season-1-episode-1-with-english-subtitles/</referer>
 </regex>
-</link>
 <thumbnail>https://img.youtube.com/vi/0fTJyCTwznM/0.jpg</thumbnail>
 <fanart>https://haberport.com/images/haberler/2019/11/kurulus-osman-dizisi-nerede-cekiliyor-dizi-seti-nerededir.jpg</fanart>
 </item>
@@ -55,12 +52,10 @@ import re,requests
 def GetLSProData(page_data,Cookie_Jar,m):
   list=re.findall('"progressive"(?s)(.*?)"barebone_js',page_data)[0]
   if '1080' in list:
-    return re.findall('.+"url":"([^"]+).+?"quality":"1080',list)[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/376074487'
-  elif '720' in list:
-    return re.findall('.+"url":"([^"]+).+?"quality":"720',list)[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/376074487'
+    return re.findall('.+"url":"([^"]+).+?"quality":"1080',list)[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/376062433'
 ]]></expres>
-<page>https://player.vimeo.com/video/376074487</page>
-<referer>https://osmanonline.co.uk/?page_id=207</referer>
+<page>https://player.vimeo.com/video/376062433</page>
+<referer>https://historicalfuntv.com/episodes/kurulus-osman-season-1-episode-2-bolum-2/</referer>
 </regex>
 <thumbnail>https://img.youtube.com/vi/ugLGoSZvuOc/0.jpg</thumbnail>
 <fanart>https://haberport.com/images/haberler/2019/11/kurulus-osman-dizisi-nerede-cekiliyor-dizi-seti-nerededir.jpg</fanart>
