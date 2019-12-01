@@ -14,12 +14,21 @@
 <season>01</season>
 <episode>01</episode>
 </meta>
-<link>
-<sublink>https://gcs-vimeo.akamaized.net/exp=1575165564~acl=%2A%2F1563825520.mp4%2A~hmac=82a46d476ca4ac1a620690a0ecc679973ade25ff6d07edbe49c154b26e7d0f08/vimeo-prod-skyfire-std-us/01/4951/14/374757629/1563825520.mp4</sublink>
-<sublink>https://gcs-vimeo.akamaized.net/exp=1575165555~acl=%2A%2F1563845794.mp4%2A~hmac=2de3ca3c04ce1d35c4329d617aafc41c62cf6916e128e719fde478fb2465769e/vimeo-prod-skyfire-std-us/01/4954/14/374773244/1563845794.mp4</sublink>
-<sublink>https://gcs-vimeo.akamaized.net/exp=1575165579~acl=%2A%2F1569242081.mp4%2A~hmac=a452c32fb805e34df6a7aab1520b6bec493bb0faed21f382790fc43f1c0a3580/vimeo-prod-skyfire-std-us/01/222/15/376113323/1569242081.mp4</sublink>
-<sublink></sublink>
-<sublink></sublink>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  list=re.findall('"progressive"(?s)(.*?)"barebone_js',page_data)[0]
+  if '1080' in list:
+    return re.findall('.+"url":"([^"]+).+?"quality":"1080',list)[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/376113323'
+  elif '720' in list:
+    return re.findall('.+"url":"([^"]+).+?"quality":"720',list)[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/376113323'
+]]></expres>
+<page>https://player.vimeo.com/video/376113323</page>
+<referer>https://osmanonline.co.uk/?page_id=173</referer>
+</regex>
 </link>
 <thumbnail>https://img.youtube.com/vi/0fTJyCTwznM/0.jpg</thumbnail>
 <fanart>https://haberport.com/images/haberler/2019/11/kurulus-osman-dizisi-nerede-cekiliyor-dizi-seti-nerededir.jpg</fanart>
@@ -38,13 +47,21 @@
 <season>01</season>
 <episode>02</episode>
 </meta>
-<link>
-<sublink>https://gcs-vimeo.akamaized.net/exp=1575161274~acl=%2A%2F1568991289.mp4%2A~hmac=ec0eec3e908b460f7a9980e21b3dd06fdb560a73de885a12144c88114bfc49c2/vimeo-prod-skyfire-std-us/01/212/15/376062433/1568991289.mp4</sublink>
-<sublink>https://gcs-vimeo.akamaized.net/exp=1575161308~acl=%2A%2F1569066267.mp4%2A~hmac=6173d16b5fd7f99e51bcb9cb4a0b46554acc82707f03cfba6518b219d9b19f18/vimeo-prod-skyfire-std-us/01/214/15/376074487/1569066267.mp4</sublink>
-<sublink>https://gcs-vimeo.akamaized.net/exp=1575161228~acl=%2A%2F1569042331.mp4%2A~hmac=2a82c5aa46f4a94e0fe62d31f5bdf5ea7afe811f156f58a02961ba2cd93ab0cd/vimeo-prod-skyfire-std-us/01/214/15/376071586/1569042331.mp4</sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  list=re.findall('"progressive"(?s)(.*?)"barebone_js',page_data)[0]
+  if '1080' in list:
+    return re.findall('.+"url":"([^"]+).+?"quality":"1080',list)[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/376074487'
+  elif '720' in list:
+    return re.findall('.+"url":"([^"]+).+?"quality":"720',list)[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/376074487'
+]]></expres>
+<page>https://player.vimeo.com/video/376074487</page>
+<referer>https://osmanonline.co.uk/?page_id=207</referer>
+</regex>
 <thumbnail>https://img.youtube.com/vi/ugLGoSZvuOc/0.jpg</thumbnail>
 <fanart>https://haberport.com/images/haberler/2019/11/kurulus-osman-dizisi-nerede-cekiliyor-dizi-seti-nerededir.jpg</fanart>
 </item>
