@@ -11,25 +11,6 @@ https://drive.google.com/file/d/0BxTRp_V2UTMGYUN3bklJOURaMlU/view
 </item>
 
 <item>
-<title>Harry Potter and the Philosopher's Stone (2001)</title>
-<meta>
-<content>movie</content>
-<imdb>tt0241527</imdb>
-<title>Harry Potter and the Philosopher's Stone</title>
-<year>2001</year>
-</meta>
-<link>
-<sublink>https://uptostream.com/rtg8gvz2qe8o</sublink>
-<sublink></sublink>
-<sublink></sublink>
-</sublink>search</sublink>
-</sublink>searchsd</sublink>
-</link>
-<thumbnail>https://fanart.tv/fanart/movies/671/movieposter/harry-potter-and-the-sorcerers-stone-555e485ecfa1e.jpg</thumbnail>
-<fanart>https://fanart.tv/fanart/movies/671/moviebackground/harry-potter-and-the-sorcerers-stone-5224e3a5913ad.jpg</fanart>
-</item>
-
-<item>
 <title>Angel Has Fallen (2019)</title>
 <meta>
 <content>movie</content>
@@ -223,7 +204,18 @@ https://drive.google.com/file/d/0BxTRp_V2UTMGYUN3bklJOURaMlU/view
 <fanart>https://fanart.tv/fanart/movies/299537/moviebackground/captain-marvel-5b9337115f9f5.jpg</fanart>
 </item>
 
-
+<dir>
+<title>Harry Potter Collection (2001 - 2011)</title>
+<meta>
+<content>movie</content>
+<imdb>tt0241527</imdb>
+<title>Harry Potter Collection (2001 - 2011)</title>
+<year>2001 - 2011</year>
+</meta>
+<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/harry.xml</link>
+<thumbnail>https://fanart.tv/fanart/movies/1241/movieposter/harry-potter-collection-52ee3ad327b27.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/movies/1241/moviebackground/harry-potter-collection-566b15a82bb17.jpg</fanart>
+</dir>
 
 
 
