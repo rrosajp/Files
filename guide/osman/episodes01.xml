@@ -20,7 +20,7 @@
 <expres><![CDATA[#$pyFunction
 import re,requests
 def GetLSProData(page_data,Cookie_Jar,m):
-  list=re.findall('"progressive"(?s)(.*?)"barebone_js',page_data)[0]
+  list=re.findall('"progressive"(?s)(.*?)"cdns',page_data)[0]
   if '1080' in list:
     return re.findall('.+"url":"([^"]+).+?"quality":"1080',list)[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/374757629'
 ]]></expres>
@@ -50,7 +50,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 import re,requests
 def GetLSProData(page_data,Cookie_Jar,m):
-  list=re.findall('"progressive"(?s)(.*?)"barebone_js',page_data)[0]
+  list=re.findall('"progressive"(?s)(.*?)"cdns',page_data)[0]
   if '1080' in list:
     return re.findall('.+"url":"([^"]+).+?"quality":"1080',list)[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/376062433'
 ]]></expres>
@@ -74,7 +74,19 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <season>01</season>
 <episode>03</episode>
 </meta>
-<link>https://gcs-vimeo.akamaized.net/exp=1575598711~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F495%2F15%2F377476900%2F1576929759.mp4~hmac=e67f90f0804a0a13d244c1ab3c41ae51ae02138b7afbaa28bbb75a8b6ad48ea8/vimeo-prod-skyfire-std-us/01/495/15/377476900/1576929759.mp4</link>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  list=re.findall('"progressive"(?s)(.*?)"cdns',page_data)[0]
+  if '1080' in list:
+    return re.findall('.+"url":"([^"]+).+?"quality":"1080',list)[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/377614204'
+]]></expres>
+<page>https://player.vimeo.com/video/377614204</page>
+<referer>https://historicalfuntv.com/episodes/kurulus-osman-season-1-episode-3-bolum-3/</referer>
+</regex>
 <thumbnail>https://img.youtube.com/vi/1nS6XKd_NXw/0.jpg</thumbnail>
 <fanart>https://haberport.com/images/haberler/2019/11/kurulus-osman-dizisi-nerede-cekiliyor-dizi-seti-nerededir.jpg</fanart>
 </item>
