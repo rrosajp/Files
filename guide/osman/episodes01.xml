@@ -20,7 +20,7 @@
 <expres><![CDATA[#$pyFunction
 import re,requests
 def GetLSProData(page_data,Cookie_Jar,m):
-  list=re.findall('"progressive"(?s)(.*?)"cdns',page_data)[0]
+  list=re.findall('"progressive"(?s)(.*?)"barebone_js',page_data)[0]
   if '1080' in list:
     return re.findall('.+"url":"([^"]+).+?"quality":"1080',list)[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/374757629'
 ]]></expres>
@@ -50,7 +50,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 import re,requests
 def GetLSProData(page_data,Cookie_Jar,m):
-  list=re.findall('"progressive"(?s)(.*?)"cdns',page_data)[0]
+  list=re.findall('"progressive"(?s)(.*?)"barebone_js',page_data)[0]
   if '1080' in list:
     return re.findall('.+"url":"([^"]+).+?"quality":"1080',list)[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/376062433'
 ]]></expres>
@@ -80,7 +80,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 import re,requests
 def GetLSProData(page_data,Cookie_Jar,m):
-  list=re.findall('"progressive"(?s)(.*?)"cdns',page_data)[0]
+  list=re.findall('"progressive"(?s)(.*?)"barebone_js',page_data)[0]
   if '1080' in list:
     return re.findall('.+"url":"([^"]+).+?"quality":"1080',list)[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/377614204'
 ]]></expres>
@@ -110,7 +110,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 import re,requests
 def GetLSProData(page_data,Cookie_Jar,m):
-  list=re.findall('"progressive"(?s)(.*?)"cdns',page_data)[0]
+  list=re.findall('"progressive"(?s)(.*?)"barebone_js',page_data)[0]
   if '1080' in list:
     return re.findall('.+"url":"([^"]+).+?"quality":"1080',list)[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/379086670'
 ]]></expres>
@@ -134,7 +134,19 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <season>01</season>
 <episode>05</episode>
 </meta>
-<link>https://gcs-vimeo.akamaized.net/exp=1576826851~acl=%2A%2F1594744439.mp4%2A~hmac=d0045f8106f38983ddc05f0b4d46b29078e6fc5cca16693768074b4351dad955/vimeo-prod-skyfire-std-us/01/1106/15/380533769/1594744439.mp4</link>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  list=re.findall('"progressive"(?s)(.*?)"barebone_js',page_data)[0]
+  if '1080' in list:
+    return re.findall('.+"url":"([^"]+).+?"quality":"1080',list)[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/380533769'
+]]></expres>
+<page>https://player.vimeo.com/video/380533769</page>
+<referer>https://historicalfuntv.com/episodes/kurulus-osman-season-1-episode-5-bolum-5/</referer>
+</regex>
 <thumbnail>https://img.youtube.com/vi/RepaGkzhu_Y/0.jpg</thumbnail>
 <fanart>https://haberport.com/images/haberler/2019/11/kurulus-osman-dizisi-nerede-cekiliyor-dizi-seti-nerededir.jpg</fanart>
 </item>
