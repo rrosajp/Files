@@ -121,3 +121,21 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://haberport.com/images/haberler/2019/11/kurulus-osman-dizisi-nerede-cekiliyor-dizi-seti-nerededir.jpg</fanart>
 </item>
 
+<item>
+<title>Episode 05</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>366399</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 05</title>
+<premiered>18/12/2019</premiered>
+<season>01</season>
+<episode>05</episode>
+</meta>
+<link>https://gcs-vimeo.akamaized.net/exp=1576826851~acl=%2A%2F1594744439.mp4%2A~hmac=d0045f8106f38983ddc05f0b4d46b29078e6fc5cca16693768074b4351dad955/vimeo-prod-skyfire-std-us/01/1106/15/380533769/1594744439.mp4</link>
+<thumbnail>https://img.youtube.com/vi/RepaGkzhu_Y/0.jpg</thumbnail>
+<fanart>https://haberport.com/images/haberler/2019/11/kurulus-osman-dizisi-nerede-cekiliyor-dizi-seti-nerededir.jpg</fanart>
+</item>
+
