@@ -18,11 +18,11 @@
 <regex>
 <name>getUrl</name>
 <expres><![CDATA[#$pyFunction
-import re,requests
+import re
 def GetLSProData(page_data,Cookie_Jar,m):
-  list=re.findall('"progressive"(?s)(.*?)"barebone_js',page_data)[0]
+  list=re.findall('"progressive"(?s)(.*?)"cookie_domain',page_data)[0]
   if '1080' in list:
-    return re.findall('.+"url":"([^"]+).+?"quality":"1080',list)[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/374757629'
+    return re.findall('"width":1920.+?url":"([^"]+)',list)[0].split('\?')[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/374757629'
 ]]></expres>
 <page>https://player.vimeo.com/video/374757629</page>
 <referer>https://historicalfuntv.com/episodes/kurulus-osman-season-1-episode-1-with-english-subtitles/</referer>
@@ -48,11 +48,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>getUrl</name>
 <expres><![CDATA[#$pyFunction
-import re,requests
+import re
 def GetLSProData(page_data,Cookie_Jar,m):
-  list=re.findall('"progressive"(?s)(.*?)"barebone_js',page_data)[0]
+  list=re.findall('"progressive"(?s)(.*?)"cookie_domain',page_data)[0]
   if '1080' in list:
-    return re.findall('.+"url":"([^"]+).+?"quality":"1080',list)[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/376062433'
+    return re.findall('"width":1920.+?url":"([^"]+)',list)[0].split('\?')[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/376062433'
 ]]></expres>
 <page>https://player.vimeo.com/video/376062433</page>
 <referer>https://historicalfuntv.com/episodes/kurulus-osman-season-1-episode-2-bolum-2/</referer>
@@ -78,11 +78,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>getUrl</name>
 <expres><![CDATA[#$pyFunction
-import re,requests
+import re
 def GetLSProData(page_data,Cookie_Jar,m):
-  list=re.findall('"progressive"(?s)(.*?)"barebone_js',page_data)[0]
+  list=re.findall('"progressive"(?s)(.*?)"cookie_domain',page_data)[0]
   if '1080' in list:
-    return re.findall('.+"url":"([^"]+).+?"quality":"1080',list)[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/377614204'
+    return re.findall('"width":1920.+?url":"([^"]+)',list)[0].split('\?')[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/377614204'
 ]]></expres>
 <page>https://player.vimeo.com/video/377614204</page>
 <referer>https://historicalfuntv.com/episodes/kurulus-osman-season-1-episode-3-bolum-3/</referer>
@@ -108,11 +108,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>getUrl</name>
 <expres><![CDATA[#$pyFunction
-import re,requests
+import re
 def GetLSProData(page_data,Cookie_Jar,m):
-  list=re.findall('"progressive"(?s)(.*?)"barebone_js',page_data)[0]
+  list=re.findall('"progressive"(?s)(.*?)"cookie_domain',page_data)[0]
   if '1080' in list:
-    return re.findall('.+"url":"([^"]+).+?"quality":"1080',list)[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/379086670'
+    return re.findall('"width":1920.+?url":"([^"]+)',list)[0].split('\?')[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/379086670'
 ]]></expres>
 <page>https://player.vimeo.com/video/379086670</page>
 <referer>https://historicalfuntv.com/episodes/kurulus-osman-season-1-episode-4-bolum-4/</referer>
@@ -138,11 +138,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>getUrl</name>
 <expres><![CDATA[#$pyFunction
-import re,requests
+import re
 def GetLSProData(page_data,Cookie_Jar,m):
-  list=re.findall('"progressive"(?s)(.*?)"barebone_js',page_data)[0]
+  list=re.findall('"progressive"(?s)(.*?)"cookie_domain',page_data)[0]
   if '1080' in list:
-    return re.findall('.+"url":"([^"]+).+?"quality":"1080',list)[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/380533769'
+    return re.findall('"width":1920.+?url":"([^"]+)',list)[0].split('\?')[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/380533769'
 ]]></expres>
 <page>https://player.vimeo.com/video/380533769</page>
 <referer>https://historicalfuntv.com/episodes/kurulus-osman-season-1-episode-5-bolum-5/</referer>
