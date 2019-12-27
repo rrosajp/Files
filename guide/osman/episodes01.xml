@@ -166,10 +166,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 import re
 def GetLSProData(page_data,Cookie_Jar,m):
   if '1080' in page_data:
-    return re.findall('"width":1920.+?url":"([^"]+)',page_data)[0].split('\?')[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/381478350'
+    return re.findall('"width":1920.+?url":"([^"]+)',page_data)[0].split('\?')[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/381544281'
 ]]></expres>
-<page>https://player.vimeo.com/video/381478350</page>
-<referer>https://osmanonline.co.uk/?page_id=337</referer>
+<page>https://player.vimeo.com/video/381544281</page>
+<referer>https://historicalfuntv.com/episodes/kurulus-osman-season-1-episode-6-bolum-6/</referer>
 </regex>
 <thumbnail>https://img.youtube.com/vi/JreH9ISczag/0.jpg</thumbnail>
 <fanart>https://haberport.com/images/haberler/2019/11/kurulus-osman-dizisi-nerede-cekiliyor-dizi-seti-nerededir.jpg</fanart>
