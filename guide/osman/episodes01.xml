@@ -195,9 +195,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 import re
 def GetLSProData(page_data,Cookie_Jar,m):
   if '1080' in page_data:
-    return re.findall('"width":1920.+?url":"([^"]+)',page_data)[0].split('\?')[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/386627623'
+    return re.findall('"width":1920.+?url":"([^"]+)',page_data)[0].split('\?')[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/386650421'
 ]]></expres>
-<page>https://player.vimeo.com/video/386627623</page>
+<page>https://player.vimeo.com/video/386650421</page>
 <referer>https://osmanonline.co.uk/?page_id=368</referer>
 </regex>
 <thumbnail>https://img.youtube.com/vi/5tsQs3praQg/0.jpg</thumbnail>
