@@ -195,12 +195,41 @@ def GetLSProData(page_data,Cookie_Jar,m):
 import re
 def GetLSProData(page_data,Cookie_Jar,m):
   if '1080' in page_data:
-    return re.findall('"width":1920.+?url":"([^"]+)',page_data)[0].split('\?')[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/386650421'
+    return re.findall('"width":1920.+?url":"([^"]+)',page_data)[0].split('\?')[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/388029756'
 ]]></expres>
-<page>https://player.vimeo.com/video/386650421</page>
-<referer>https://osmanonline.co.uk/?page_id=368</referer>
+<page>https://player.vimeo.com/video/388029756</page>
+<referer>https://osmanonline.co.uk/kurulus-osman-season-1-episode-7/</referer>
 </regex>
 <thumbnail>https://img.youtube.com/vi/5tsQs3praQg/0.jpg</thumbnail>
+<fanart>https://haberport.com/images/haberler/2019/11/kurulus-osman-dizisi-nerede-cekiliyor-dizi-seti-nerededir.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 08</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>366399</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 08</title>
+<premiered>29/01/2020</premiered>
+<season>01</season>
+<episode>08</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  if '1080' in page_data:
+    return re.findall('"width":1920.+?url":"([^"]+)',page_data)[0].split('\?')[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/388142029'
+]]></expres>
+<page>https://player.vimeo.com/video/388142029</page>
+<referer>https://osmanonline.co.uk/kurulus-osman-season-1-episode-8/</referer>
+</regex>
+<thumbnail>https://img.youtube.com/vi/SP-p5Eve3Vg/0.jpg</thumbnail>
 <fanart>https://haberport.com/images/haberler/2019/11/kurulus-osman-dizisi-nerede-cekiliyor-dizi-seti-nerededir.jpg</fanart>
 </item>
 
