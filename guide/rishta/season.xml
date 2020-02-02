@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+TV Show Season Links
+
+
+</item>
+<title>[COLOR yellow] Requests [1] [/COLOR]</title>
+<link>NoURL</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+</item>
+
+<dir>
+<title>Season 1</title>
+<meta>
+<content>season</content>
+<imdb>tt1739752</imdb>
+<tvdb>142281</tvdb>
+<tvshowtitle>Rishta.com</tvshowtitle>
+<year>2010</year>
+<title>Season 1</title>
+<premiered>2010</premiered>
+<season>01</season>
+</meta>
+<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/rishta/episodes01.xml</link>
+<thumbnail>https://artworks.thetvdb.com/banners/posters/142281-1.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/fanart/original/142281-2.jpg</fanart>
+</dir>
