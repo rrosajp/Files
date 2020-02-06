@@ -238,3 +238,31 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://haberport.com/images/haberler/2019/11/kurulus-osman-dizisi-nerede-cekiliyor-dizi-seti-nerededir.jpg</fanart>
 </item>
 
+<item>
+<title>Episode 09</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>366399</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 09</title>
+<premiered>05/02/2020</premiered>
+<season>01</season>
+<episode>09</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  if '1080' in page_data:
+    return re.findall('"width":1920.+?url":"([^"]+)',page_data)[0].split('\?')[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/389654643'
+]]></expres>
+<page>https://player.vimeo.com/video/389654643</page>
+<referer>https://osmanonline.co.uk/kurulus-osman-season-1-episode-9/</referer>
+</regex>
+<thumbnail>https://img.youtube.com/vi/NCNKcWLA7WM/0.jpg</thumbnail>
+<fanart>https://haberport.com/images/haberler/2019/11/kurulus-osman-dizisi-nerede-cekiliyor-dizi-seti-nerededir.jpg</fanart>
+</item>
