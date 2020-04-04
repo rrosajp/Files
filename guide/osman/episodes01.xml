@@ -266,3 +266,235 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://img.youtube.com/vi/NCNKcWLA7WM/0.jpg</thumbnail>
 <fanart>https://haberport.com/images/haberler/2019/11/kurulus-osman-dizisi-nerede-cekiliyor-dizi-seti-nerededir.jpg</fanart>
 </item>
+
+<item>
+<title>Episode 10</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>366399</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 10</title>
+<premiered>12/02/2020</premiered>
+<season>01</season>
+<episode>10</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  if '1080' in page_data:
+    return re.findall('"width":1920.+?url":"([^"]+)',page_data)[0].split('\?')[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/391175145'
+]]></expres>
+<page>https://player.vimeo.com/video/391175145</page>
+<referer>https://osmanonline.co.uk/kurulus-osman-season-1-episode-10/</referer>
+</regex>
+<thumbnail>https://img.youtube.com/vi/Fc-weelaEWU/0.jpg</thumbnail>
+<fanart>https://haberport.com/images/haberler/2019/11/kurulus-osman-dizisi-nerede-cekiliyor-dizi-seti-nerededir.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 11</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>366399</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 11</title>
+<premiered>19/02/2020</premiered>
+<season>01</season>
+<episode>11</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  if '1080' in page_data:
+    return re.findall('"width":1920.+?url":"([^"]+)',page_data)[0].split('\?')[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/392616292'
+]]></expres>
+<page>https://player.vimeo.com/video/392616292</page>
+<referer>https://osmanonline.co.uk/kurulus-osman-season-1-episode-11/</referer>
+</regex>
+<thumbnail>https://img.youtube.com/vi/gTuGTCows_w/0.jpg</thumbnail>
+<fanart>https://haberport.com/images/haberler/2019/11/kurulus-osman-dizisi-nerede-cekiliyor-dizi-seti-nerededir.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 12</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>366399</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 12</title>
+<premiered>26/02/2020</premiered>
+<season>01</season>
+<episode>12</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  if '1080' in page_data:
+    return re.findall('"width":1920.+?url":"([^"]+)',page_data)[0].split('\?')[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/394258343'
+]]></expres>
+<page>https://player.vimeo.com/video/394258343</page>
+<referer>https://osmanonline.co.uk/kurulus-osman-season-1-episode-12/</referer>
+</regex>
+<thumbnail>https://img.youtube.com/vi/ssd85B28W18/0.jpg</thumbnail>
+<fanart>https://haberport.com/images/haberler/2019/11/kurulus-osman-dizisi-nerede-cekiliyor-dizi-seti-nerededir.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 13</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>366399</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 13</title>
+<premiered>04/03/2020</premiered>
+<season>01</season>
+<episode>13</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  if '1080' in page_data:
+    return re.findall('"width":1920.+?url":"([^"]+)',page_data)[0].split('\?')[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/395899171'
+]]></expres>
+<page>https://player.vimeo.com/video/395899171</page>
+<referer>https://osmanonline.co.uk/kurulus-osman-season-1-episode-13/</referer>
+</regex>
+<thumbnail>https://img.youtube.com/vi/wmM4wQn1krE/0.jpg</thumbnail>
+<fanart>https://haberport.com/images/haberler/2019/11/kurulus-osman-dizisi-nerede-cekiliyor-dizi-seti-nerededir.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 14</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>366399</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 14</title>
+<premiered>11/03/2020</premiered>
+<season>01</season>
+<episode>14</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  if '1080' in page_data:
+    return re.findall('"width":1920.+?url":"([^"]+)',page_data)[0].split('\?')[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/397191050'
+]]></expres>
+<page>https://player.vimeo.com/video/397191050</page>
+<referer>https://osmanonline.co.uk/kurulus-osman-season-1-episode-14/</referer>
+</regex>
+<thumbnail>https://img.youtube.com/vi/dW_UkfDkJeU/0.jpg</thumbnail>
+<fanart>https://haberport.com/images/haberler/2019/11/kurulus-osman-dizisi-nerede-cekiliyor-dizi-seti-nerededir.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 15</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>366399</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 15</title>
+<premiered>18/03/2020</premiered>
+<season>01</season>
+<episode>15</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  if '1080' in page_data:
+    return re.findall('"width":1920.+?url":"([^"]+)',page_data)[0].split('\?')[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/398818606'
+]]></expres>
+<page>https://player.vimeo.com/video/398818606</page>
+<referer>https://osmanonline.co.uk/kurulus-osman-season-1-episode-15/</referer>
+</regex>
+<thumbnail>https://img.youtube.com/vi/pCyZEfurYNQ/0.jpg</thumbnail>
+<fanart>https://haberport.com/images/haberler/2019/11/kurulus-osman-dizisi-nerede-cekiliyor-dizi-seti-nerededir.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 16</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>366399</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 16</title>
+<premiered>25/03/2020</premiered>
+<season>01</season>
+<episode>16</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  if '1080' in page_data:
+    return re.findall('"width":1920.+?url":"([^"]+)',page_data)[0].split('\?')[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/400875894'
+]]></expres>
+<page>https://player.vimeo.com/video/400875894</page>
+<referer>https://www.osmanonline.co.uk/watch-kurulus-osman-season-1-episode-16-with-english-subtitles/</referer>
+</regex>
+<thumbnail>https://img.youtube.com/vi/xk-ZoGllYAk/0.jpg</thumbnail>
+<fanart>https://haberport.com/images/haberler/2019/11/kurulus-osman-dizisi-nerede-cekiliyor-dizi-seti-nerededir.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 17</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>366399</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 17</title>
+<premiered>01/04/2020</premiered>
+<season>01</season>
+<episode>17</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  if '1080' in page_data:
+    return re.findall('"width":1920.+?url":"([^"]+)',page_data)[0].split('\?')[0]+'|user-agent=ipad&referer=https://player.vimeo.com/video/403171483'
+]]></expres>
+<page>https://player.vimeo.com/video/403171483</page>
+<referer>https://www.osmanonline.co.uk/watch-kurulus-osman-season-1-episode-17-with-english-subtitles/</referer>
+</regex>
+<thumbnail>https://img.youtube.com/vi/hqISOAvLP2M/0.jpg</thumbnail>
+<fanart>https://haberport.com/images/haberler/2019/11/kurulus-osman-dizisi-nerede-cekiliyor-dizi-seti-nerededir.jpg</fanart>
+</item>
