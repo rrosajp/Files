@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+TV Show Season Links
+
+
+</item>
+<title>[COLOR yellow] Requests [1] [/COLOR]</title>
+<link>NoURL</link>
+<thumbnail>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/icon.png</thumbnail> 
+</item>
+
+<dir>
+<title>Season 1</title>
+<meta>
+<content>season</content>
+<imdb>tt11093718</imdb>
+<tvdb>366399</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Kurulus - Osman</title>
+<premiered>2019</premiered>
+<season>01</season>
+</meta>
+<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/osman/episodes01.xml</link>
+<thumbnail>https://artworks.thetvdb.com/banners/series/386436/posters/5f579c4c8bc70.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</dir>
+
+<dir>
+<title>Season 2</title>
+<meta>
+<content>season</content>
+<imdb>tt11093718</imdb>
+<tvdb>366399</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Kurulus - Osman</title>
+<premiered>2019</premiered>
+<season>02</season>
+</meta>
+<link>https://raw.githubusercontent.com/Sanjjay/Files/master/guide/osman/episodes02.xml</link>
+<thumbnail>https://artworks.thetvdb.com/banners/series/386436/posters/5f5a83e70082c.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/series/386436/backgrounds/5f6fcac78f0a4.jpg</fanart>
+</dir>
