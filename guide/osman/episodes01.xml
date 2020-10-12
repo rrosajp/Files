@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<item>
+<title>[COLOR yellow]Click again if link doesn't work.[/COLOR]</title>
+<link>NoURL</link>
+<thumbnail></thumbnail> 
+</item>
+
+<item>
+<title>Episode 01</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 01</title>
+<premiered>20/11/2019</premiered>
+<season>01</season>
+<episode>01</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-1-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-1-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/0fTJyCTwznM/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 02</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 02</title>
+<premiered>27/11/2019</premiered>
+<season>01</season>
+<episode>02</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-2-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-2-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/ugLGoSZvuOc/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 03</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 03</title>
+<premiered>04/12/2019</premiered>
+<season>01</season>
+<episode>03</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-3-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-3-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/1nS6XKd_NXw/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 04</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 04</title>
+<premiered>11/12/2019</premiered>
+<season>01</season>
+<episode>04</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-4-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-4-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/fvb3_e_xI70/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 05</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 05</title>
+<premiered>18/12/2019</premiered>
+<season>01</season>
+<episode>05</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-5-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-5-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/RepaGkzhu_Y/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 06</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 06</title>
+<premiered>25/12/2019</premiered>
+<season>01</season>
+<episode>06</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-6-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-6-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/JreH9ISczag/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 07</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 07</title>
+<premiered>22/01/2020</premiered>
+<season>01</season>
+<episode>07</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-7-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-7-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/5tsQs3praQg/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 08</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 08</title>
+<premiered>29/01/2020</premiered>
+<season>01</season>
+<episode>08</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-8-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-8-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/SP-p5Eve3Vg/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 09</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 09</title>
+<premiered>05/02/2020</premiered>
+<season>01</season>
+<episode>09</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-9-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-9-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/NCNKcWLA7WM/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 10</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 10</title>
+<premiered>12/02/2020</premiered>
+<season>01</season>
+<episode>10</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-10-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-10-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/Fc-weelaEWU/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 11</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 11</title>
+<premiered>19/02/2020</premiered>
+<season>01</season>
+<episode>11</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-11-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-11-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/gTuGTCows_w/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 12</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 12</title>
+<premiered>26/02/2020</premiered>
+<season>01</season>
+<episode>12</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-12-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-12-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/ssd85B28W18/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 13</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 13</title>
+<premiered>04/03/2020</premiered>
+<season>01</season>
+<episode>13</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-13-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-13-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/wmM4wQn1krE/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 14</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 14</title>
+<premiered>11/03/2020</premiered>
+<season>01</season>
+<episode>14</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-14-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-14-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/dW_UkfDkJeU/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 15</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 15</title>
+<premiered>18/03/2020</premiered>
+<season>01</season>
+<episode>15</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-15-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-15-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/pCyZEfurYNQ/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 16</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 16</title>
+<premiered>25/03/2020</premiered>
+<season>01</season>
+<episode>16</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-16-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-16-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/xk-ZoGllYAk/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 17</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 17</title>
+<premiered>01/04/2020</premiered>
+<season>01</season>
+<episode>17</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-17-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-17-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/hqISOAvLP2M/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 18</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 18</title>
+<premiered>22/04/2020</premiered>
+<season>01</season>
+<episode>18</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-18-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-18-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/Vjq9VWbBvbI/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 19</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 19</title>
+<premiered>29/04/2020</premiered>
+<season>01</season>
+<episode>19</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-19-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-19-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/f0-OlfeY03U/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 20</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 20</title>
+<premiered>06/05/2020</premiered>
+<season>01</season>
+<episode>20</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-20-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-20-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/AFjiiXaAtQs/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 21</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 21</title>
+<premiered>13/05/2020</premiered>
+<season>01</season>
+<episode>21</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-21-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-21-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/JwFPEq5niJ4/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 22</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 22</title>
+<premiered>20/05/2020</premiered>
+<season>01</season>
+<episode>22</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-22-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-22-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/u035cIWuva8/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 23</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 23</title>
+<premiered>27/05/2020</premiered>
+<season>01</season>
+<episode>23</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-23-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-23-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/PhxwFMcJTNo/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 24</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 24</title>
+<premiered>03/06/2020</premiered>
+<season>01</season>
+<episode>24</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-24-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-24-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/FAWA11shX3s/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 25</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 25</title>
+<premiered>10/06/2020</premiered>
+<season>01</season>
+<episode>25</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-25-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-25-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/x03GQGY-FCA/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 26</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 26</title>
+<premiered>17/06/2020</premiered>
+<season>01</season>
+<episode>26</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-26-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-26-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/bY3RORNvZv4/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 27</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 27</title>
+<premiered>24/06/2020</premiered>
+<season>01</season>
+<episode>27</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-27-with-english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x720' in source:
+    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-27-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/-EEfFArCXh4/0.jpg</thumbnail>
+<fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
+</item>
