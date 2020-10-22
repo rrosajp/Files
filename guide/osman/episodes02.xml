@@ -26,19 +26,87 @@
 import re,requests
 def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   link=re.findall('<iframe src="([^"]+)',page_data)[0]
-  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-2-episode-28-with-english-subtitles/','accept':'*/*'})
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-2-episode-28-with-
+
+english-subtitles/','accept':'*/*'})
   path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
   furl='https://%s%s?s=cdn1&d=' %(host,path)
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/watch-kurulus-osman-season-2-episode-28-with-english-subtitles/</page>
 </regex>
 <thumbnail>https://img.youtube.com/vi/l32eRv7O4Xg/0.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/series/386436/backgrounds/5f6fcac78f0a4.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 02</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 02</title>
+<premiered>14/10/2020</premiered>
+<season>02</season>
+<episode>02</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-2-episode-29-with-
+
+english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-2-episode-29-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/30KcyrK61eU/0.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/series/386436/backgrounds/5f6fcac78f0a4.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 03</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 03</title>
+<premiered>21/10/2020</premiered>
+<season>02</season>
+<episode>03</episode>
+</meta>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
+  link=re.findall('<iframe src="([^"]+)',page_data)[0]
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-2-episode-30-with-
+
+english-subtitles/','accept':'*/*'})
+  path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
+  furl='https://%s%s?s=cdn1&d=' %(host,path)
+  source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
+  if 'x1080' in source:
+    return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>https://osmanonline.co.uk/watch-kurulus-osman-season-2-episode-30-with-english-subtitles/</page>
+</regex>
+<thumbnail>https://img.youtube.com/vi/baDsiIza6xE/0.jpg</thumbnail>
 <fanart>https://artworks.thetvdb.com/banners/series/386436/backgrounds/5f6fcac78f0a4.jpg</fanart>
 </item>
