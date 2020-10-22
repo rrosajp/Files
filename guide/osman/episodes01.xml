@@ -26,7 +26,7 @@
 import re,requests
 def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   link=re.findall('<iframe src="([^"]+)',page_data)[0]
-  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-1-with-english-subtitles/','accept':'*/*'})
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/kurulus-osman-season-1-episode-1-with-english-subtitles/','accept':'*/*'})
   path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
   furl='https://%s%s?s=cdn1&d=' %(host,path)
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
@@ -37,7 +37,7 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   else:
     return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
-<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-1-with-english-subtitles/</page>
+<page>https://osmanonline.co.uk/kurulus-osman-season-1-episode-1-with-english-subtitles/</page>
 </regex>
 <thumbnail>https://img.youtube.com/vi/0fTJyCTwznM/0.jpg</thumbnail>
 <fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
@@ -63,7 +63,7 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
 import re,requests
 def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   link=re.findall('<iframe src="([^"]+)',page_data)[0]
-  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-2-with-english-subtitles/','accept':'*/*'})
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/kurulus-osman-season-1-episode-2-with-english-subtitles/','accept':'*/*'})
   path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
   furl='https://%s%s?s=cdn1&d=' %(host,path)
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
@@ -74,7 +74,7 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   else:
     return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
-<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-2-with-english-subtitles/</page>
+<page>https://osmanonline.co.uk/kurulus-osman-season-1-episode-2-with-english-subtitles/</page>
 </regex>
 <thumbnail>https://img.youtube.com/vi/ugLGoSZvuOc/0.jpg</thumbnail>
 <fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
@@ -100,7 +100,7 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
 import re,requests
 def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   link=re.findall('<iframe src="([^"]+)',page_data)[0]
-  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-3-with-english-subtitles/','accept':'*/*'})
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/kurulus-osman-season-1-episode-3-with-english-subtitles/','accept':'*/*'})
   path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
   furl='https://%s%s?s=cdn1&d=' %(host,path)
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
@@ -111,7 +111,7 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   else:
     return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
-<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-3-with-english-subtitles/</page>
+<page>https://osmanonline.co.uk/kurulus-osman-season-1-episode-3-with-english-subtitles/</page>
 </regex>
 <thumbnail>https://img.youtube.com/vi/1nS6XKd_NXw/0.jpg</thumbnail>
 <fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
@@ -137,7 +137,7 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
 import re,requests
 def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   link=re.findall('<iframe src="([^"]+)',page_data)[0]
-  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-4-with-english-subtitles/','accept':'*/*'})
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/kurulus-osman-season-1-episode-4-with-english-subtitles/','accept':'*/*'})
   path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
   furl='https://%s%s?s=cdn1&d=' %(host,path)
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
@@ -148,7 +148,7 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   else:
     return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
-<page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-4-with-english-subtitles/</page>
+<page>https://osmanonline.co.uk/kurulus-osman-season-1-episode-4-with-english-subtitles/</page>
 </regex>
 <thumbnail>https://img.youtube.com/vi/fvb3_e_xI70/0.jpg</thumbnail>
 <fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
