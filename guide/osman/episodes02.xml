@@ -26,9 +26,7 @@
 import re,requests
 def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   link=re.findall('<iframe src="([^"]+)',page_data)[0]
-  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-2-episode-28-with-
-
-english-subtitles/','accept':'*/*'})
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-2-episode-28-with-english-subtitles/','accept':'*/*'})
   path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
   furl='https://%s%s?s=cdn1&d=' %(host,path)
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
@@ -61,9 +59,7 @@ english-subtitles/','accept':'*/*'})
 import re,requests
 def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   link=re.findall('<iframe src="([^"]+)',page_data)[0]
-  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-2-episode-29-with-
-
-english-subtitles/','accept':'*/*'})
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-2-episode-29-with-english-subtitles/','accept':'*/*'})
   path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
   furl='https://%s%s?s=cdn1&d=' %(host,path)
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
@@ -96,9 +92,7 @@ english-subtitles/','accept':'*/*'})
 import re,requests
 def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   link=re.findall('<iframe src="([^"]+)',page_data)[0]
-  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-2-episode-30-with-
-
-english-subtitles/','accept':'*/*'})
+  s=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':host,'referer':'https://osmanonline.co.uk/watch-kurulus-osman-season-2-episode-30-with-english-subtitles/','accept':'*/*'})
   path=re.findall('"hostList":.+?videoUrl":"([^"]+)',s.content)[0].replace('\\','')
   furl='https://%s%s?s=cdn1&d=' %(host,path)
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
