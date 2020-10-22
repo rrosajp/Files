@@ -32,10 +32,6 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/kurulus-osman-season-1-episode-1-with-english-subtitles/</page>
 </regex>
@@ -69,10 +65,6 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/kurulus-osman-season-1-episode-2-with-english-subtitles/</page>
 </regex>
@@ -106,10 +98,6 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/kurulus-osman-season-1-episode-3-with-english-subtitles/</page>
 </regex>
@@ -143,10 +131,6 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/kurulus-osman-season-1-episode-4-with-english-subtitles/</page>
 </regex>
@@ -180,10 +164,6 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-5-with-english-subtitles/</page>
 </regex>
@@ -217,10 +197,6 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-6-with-english-subtitles/</page>
 </regex>
@@ -254,10 +230,6 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-7-with-english-subtitles/</page>
 </regex>
@@ -291,10 +263,6 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-8-with-english-subtitles/</page>
 </regex>
@@ -328,10 +296,6 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-9-with-english-subtitles/</page>
 </regex>
@@ -365,10 +329,6 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-10-with-english-subtitles/</page>
 </regex>
@@ -402,10 +362,6 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-11-with-english-subtitles/</page>
 </regex>
@@ -439,10 +395,6 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-12-with-english-subtitles/</page>
 </regex>
@@ -476,10 +428,6 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-13-with-english-subtitles/</page>
 </regex>
@@ -513,10 +461,6 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-14-with-english-subtitles/</page>
 </regex>
@@ -550,10 +494,6 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-15-with-english-subtitles/</page>
 </regex>
@@ -587,10 +527,6 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-16-with-english-subtitles/</page>
 </regex>
@@ -624,10 +560,6 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-17-with-english-subtitles/</page>
 </regex>
@@ -661,10 +593,6 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-18-with-english-subtitles/</page>
 </regex>
@@ -698,10 +626,6 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-19-with-english-subtitles/</page>
 </regex>
@@ -735,10 +659,6 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-20-with-english-subtitles/</page>
 </regex>
@@ -772,10 +692,6 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-21-with-english-subtitles/</page>
 </regex>
@@ -809,10 +725,6 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-22-with-english-subtitles/</page>
 </regex>
@@ -846,10 +758,6 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-23-with-english-subtitles/</page>
 </regex>
@@ -883,10 +791,6 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-24-with-english-subtitles/</page>
 </regex>
@@ -920,10 +824,6 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-25-with-english-subtitles/</page>
 </regex>
@@ -957,10 +857,6 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-26-with-english-subtitles/</page>
 </regex>
@@ -994,13 +890,10 @@ def GetLSProData(page_data,Cookie_Jar,m,host='osman.gigastream.xyz'):
   source=requests.get(furl,headers={'user-agent':'Mozilla/5.0','host':host,'referer':link,'accept':'*/*'},cookies=s.cookies).content
   if 'x1080' in source:
     return re.findall('1920x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  elif 'x720' in source:
-    return re.findall('1280x.+\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-    return re.findall('x480\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>https://osmanonline.co.uk/watch-kurulus-osman-season-1-episode-27-with-english-subtitles/</page>
 </regex>
 <thumbnail>https://img.youtube.com/vi/-EEfFArCXh4/0.jpg</thumbnail>
 <fanart>https://iatv.tmgrup.com.tr/2020/04/16/kurulus-osman-1587062460939.jpg</fanart>
 </item>
+
