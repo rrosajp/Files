@@ -687,7 +687,10 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
 <season>02</season>
 <episode>14</episode>
 </meta>
-<link>https://ok.ru/video/2628747004437</link>
+<link>
+<sublink>https://ok.ru/video/1980897757825</sublink>
+<sublink>https://ok.ru/video/2628747004437</sublink>
+</link>
 <thumbnail>https://img.youtube.com/vi/cf6j1Uq7HhA/0.jpg</thumbnail>
 <fanart>https://artworks.thetvdb.com/banners/series/386436/backgrounds/5f6fcac78f0a4.jpg</fanart>
 </item>
