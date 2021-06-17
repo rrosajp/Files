@@ -1137,3 +1137,24 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
 <thumbnail>https://img.youtube.com/vi/kKStk4V6HRU/0.jpg</thumbnail>
 <fanart>https://artworks.thetvdb.com/banners/series/386436/backgrounds/5f6fcac78f0a4.jpg</fanart>
 </item>
+
+<item>
+<title>Episode 36 - Bolum 63</title>
+<meta>
+<content>episode</content>
+<imdb>tt11093718</imdb>
+<tvdb>386436</tvdb>
+<tvshowtitle>Kurulus - Osman</tvshowtitle>
+<year>2019</year>
+<title>Episode 36 - Bolum 63</title>
+<premiered>16/06/2021</premiered>
+<season>02</season>
+<episode>36</episode>
+</meta>
+<link>
+<sublink>https://skyfire.vimeocdn.com/1623928251-0xb186a5110178a627d811130c135ad4b485fb1c48/0db54c07-82d4-48ff-b73a-c5f608d0d848/sep/video/54464d4f,86ee70cc,17bd3722,3313f8d5/audio/44c80d22,59739f59/master.m3u8?query_string_ranges=1|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A89.0)%20Gecko%2F20100101%20Firefox%2F89.0&Referer=https%3A%2F%2Fwakeupummah.com%2Ffireplayer%2Fvideo%2F996a7fa078cc36c46d02f9af3bef918b</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>https://img.youtube.com/vi/juOuzbcmpqg/0.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/series/386436/backgrounds/5f6fcac78f0a4.jpg</fanart>
+</item>
